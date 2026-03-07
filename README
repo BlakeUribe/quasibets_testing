@@ -1,0 +1,7 @@
+# Prediction Market Arbitrage Application
+
+This project is in the early stages of development and is focused on building a system to detect arbitrage opportunities across prediction market platforms.
+
+At the current stage, the project is primarily exploratory. The goal is to collect market data, analyze pricing across platforms, and demonstrate that arbitrage or quasi arbitrage opportunities can exist within prediction markets.
+
+The tools in this repository are used to test data pipelines, compare market prices, and identify the conditions under which arbitrage opportunities appear. This work helps establish the foundation for a more complete arbitrage detection system in later development stages.
