@@ -2,3 +2,6 @@ py-clob-client
 pandas
 numpy
 websockets
+rapidfuzz
+spacy
+nltk
