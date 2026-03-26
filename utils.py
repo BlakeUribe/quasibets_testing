@@ -1,33 +1,48 @@
 import pandas as pd
 
+import pandas as pd
+
 def clean_text_cols(df: pd.DataFrame) -> pd.DataFrame:
     """
-    Standardizes text, removes junk, and converts financial symbols
-    to readable text (USD, BTC, etc.).
+    Standardizes text, removes financial noise, and strips prediction 
+    market 'question' prefixes to leave the core subject for matching.
     """
     string_cols = df.select_dtypes(include=['object']).columns
 
-    # Define a mapping for common symbols to clean strings
+    # The mapping handles symbols, noise, and question-style prefixes
     symbol_map = {
+        # Currency & Crypto
         r'\$': 'usd ',
         r'€': 'eur ',
         r'£': 'gbp ',
         r'₿': 'btc ',
         r'Ξ': 'eth ',
-        r'_{2,}': '',     # Matches 2 or more underscores (___ or __)
-        r'\.{2,}': '',    # Matches 2 or more literal dots (...)
-        r'\s{2,}': ' '    # Collapses double spaces into one
+        
+        # Polymarket & Noise artifacts
+        r'_{2,}': '',      # Matches ___ or __
+        r'\.{2,}': '',     # Matches ... or ..
+        
+        # Prediction Market Question Stripping (Kalshi style)
+        r'^will a\s+': '',
+        r'^will the\s+': '',
+        r'^will\s+': '',
+        r'^who will\s+': '',
+        r'\?': '',         # Removes all question marks
+        
+        # Cleanup
+        r'\s{2,}': ' '     # Collapses multiple spaces into one
     }
 
     for col in string_cols:
-        # Convert to string/lower/strip first
+        # Initial lower and strip
         series = df[col].astype(str).str.lower().str.strip()
         
-        # Apply all symbol replacements in one loop
-        for symbol, replacement in symbol_map.items():
-            series = series.str.replace(symbol, replacement, regex=True)
+        # Apply all logic in the symbol map
+        for pattern, replacement in symbol_map.items():
+            series = series.str.replace(pattern, replacement, regex=True)
             
-        df[col] = series
+        # Final strip to catch anything left by the prefix removal
+        df[col] = series.str.strip()
         
     return df
 

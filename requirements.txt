@@ -5,3 +5,4 @@ websockets
 rapidfuzz
 spacy
 nltk
+matplotlib

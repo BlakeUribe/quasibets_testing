@@ -1,0 +1,405 @@
+keyword,category
+xi jinping,person
+vladimir putin,person
+donald trump,person
+angela merkel,person
+jeff bezos,person
+pope francis,person
+bill gates,person
+mohammed bin salman,person
+narendra modi,person
+larry page,person
+jerome powell,person
+emmanuel macron,person
+mark zuckerberg,person
+theresa may,person
+li keqiang,person
+warren buffett,person
+ali khamenei,person
+mario draghi,person
+jamie dimon,person
+carlos slim,person
+jack,person
+christine lagarde,person
+doug mcmillon,person
+tim cook,person
+elon musk,person
+benjamin netanyahu,person
+huateng,person
+larry fink,person
+akio toyoda,person
+john l. flannery,person
+antónio guterres,person
+mukesh ambani,person
+jean-claude juncker,person
+darren woods,person
+sergey brin,person
+kim jong-un,person
+charles koch,person
+shinzo abe,person
+rupert murdoch,person
+satya nadella,person
+jim yong kim,person
+stephen a. schwarzman,person
+khalifa bin zayed al nahyan,person
+haruhiko kuroda,person
+abdul fatah khalil al-sisi,person
+li ka-shing,person
+lloyd blankfein,person
+recep tayyip erdogan,person
+bob iger,person
+michel temer,person
+michael bloomberg,person
+wang jianlin,person
+mary barra,person
+moon jae-in,person
+masayoshi son,person
+bernard arnault,person
+justin trudeau,person
+robin li,person
+michael dell,person
+hui ka yan,person
+lee hsien loong,person
+bashar al-assad,person
+john roberts,person
+enrique peña nieto,person
+kenneth c. griffin,person
+aliko dangote,person
+mike pence,person
+qamar javed bajwa,person
+rodrigo duterte,person
+abigail johnson,person
+reed hastings,person
+robert mueller,person
+abu bakr al-baghdadi,person
+joko widodo,person
+gianni infantino,person
+walmart,company
+amazon,company
+state grid corporation china,company
+saudi aramco,company
+china national petroleum corporation,company
+china petrochemical corporation,company
+apple,company
+alphabet,company
+unitedhealth group,company
+berkshire hathaway,company
+cvs health,company
+volkswagen group,company
+exxonmobil,company
+vitol,company
+shell,company
+china state construction engineering,company
+toyota,company
+mckesson,company
+microsoft,company
+cencora,company
+trafigura,company
+costco,company
+jpmorgan chase,company
+industrial commercial bank china,company
+totalenergies,company
+glencore,company
+nvidia,company
+bp,company
+cardinal health,company
+stellantis,company
+chevron,company
+china construction bank,company
+samsung electronics,company
+foxconn,company
+cigna,company
+agricultural bank china,company
+schwarz gruppe,company
+china railway engineering corporation,company
+cargill,company
+ford motor company,company
+bank china,company
+bank america,company
+general motors,company
+elevance health,company
+bmw group,company
+mercedes-benz group,company
+meta platforms,company
+china railway construction corporation,company
+baowu,company
+citigroup,company
+alabama,geography
+alaska,geography
+arizona,geography
+arkansas,geography
+california,geography
+colorado,geography
+connecticut,geography
+delaware,geography
+florida,geography
+georgia,geography
+hawaii,geography
+idaho,geography
+illinois,geography
+indiana,geography
+iowa,geography
+kansas,geography
+kentucky,geography
+louisiana,geography
+maine,geography
+maryland,geography
+massachusetts,geography
+michigan,geography
+minnesota,geography
+mississippi,geography
+missouri,geography
+montana,geography
+nebraska,geography
+nevada,geography
+new hampshire,geography
+new jersey,geography
+new mexico,geography
+new york,geography
+north carolina,geography
+north dakota,geography
+ohio,geography
+oklahoma,geography
+oregon,geography
+pennsylvania,geography
+rhode island,geography
+south carolina,geography
+south dakota,geography
+tennessee,geography
+texas,geography
+utah,geography
+vermont,geography
+virginia,geography
+washington,geography
+west virginia,geography
+wisconsin,geography
+wyoming,geography
+montgomery,geography
+juneau,geography
+phoenix,geography
+little rock,geography
+sacramento,geography
+denver,geography
+hartford,geography
+dover,geography
+tallahassee,geography
+atlanta,geography
+honolulu,geography
+boise,geography
+springfield,geography
+indianapolis,geography
+des moines,geography
+topeka,geography
+frankfort,geography
+baton rouge,geography
+augusta,geography
+annapolis,geography
+boston,geography
+lansing,geography
+saint paul,geography
+jackson,geography
+jefferson city,geography
+helena,geography
+lincoln,geography
+carson city,geography
+concord,geography
+trenton,geography
+santa fe,geography
+albany,geography
+raleigh,geography
+bismarck,geography
+columbus,geography
+oklahoma city,geography
+salem,geography
+harrisburg,geography
+providence,geography
+columbia,geography
+pierre,geography
+nashville,geography
+austin,geography
+salt lake city,geography
+montpelier,geography
+richmond,geography
+olympia,geography
+charleston,geography
+madison,geography
+cheyenne,geography
+huntsville,geography
+anchorage,geography
+los angeles,geography
+bridgeport,geography
+wilmington,geography
+jacksonville,geography
+chicago,geography
+wichita,geography
+louisville,geography
+new orleans,geography
+portland,geography
+baltimore,geography
+detroit,geography
+minneapolis,geography
+kansas city,geography
+billings,geography
+omaha,geography
+las vegas,geography
+manchester,geography
+newark,geography
+albuquerque,geography
+new york city,geography
+charlotte,geography
+fargo,geography
+philadelphia,geography
+sioux falls,geography
+houston,geography
+burlington,geography
+virginia beach,geography
+seattle,geography
+milwaukee,geography
+china,geography
+russia,geography
+united states,geography
+germany,geography
+vatican city/ argentina,geography
+saudi arabia,geography
+india,geography
+france,geography
+united kingdom,geography
+iran,geography
+italy,geography
+mexico,geography
+"south africa, canada united states",geography
+israel,geography
+japan,geography
+portugal,geography
+luxemburg,geography
+north korea,geography
+united arab emirates,geography
+egypt,geography
+hong kong,geography
+turkey,geography
+brazil,geography
+south korea,geography
+canada,geography
+singapore,geography
+ba'athist syria,geography
+nigeria,geography
+pakistan,geography
+philippines,geography
+iraq,geography
+indonesia,geography
+switzerland,geography
+bitcoin,crypto
+litecoin,crypto
+namecoin,crypto
+peercoin,crypto
+dogecoin,crypto
+gridcoin,crypto
+primecoin,crypto
+ripple,crypto
+nxt,crypto
+auroracoin,crypto
+dash,crypto
+neo,crypto
+mazacoin,crypto
+monero,crypto
+titcoin,crypto
+verge,crypto
+stellar,crypto
+vertcoin,crypto
+ethereum,crypto
+ethereum classic,crypto
+nano,crypto
+tether,crypto
+firo,crypto
+zcash,crypto
+bitcoin cash,crypto
+eos.io,crypto
+cardano,crypto
+tron,crypto
+ambacoin,crypto
+nervos network,crypto
+algorand,crypto
+avalanche,crypto
+shiba inu,crypto
+polkadot,crypto
+solana,crypto
+deso,crypto
+safemoon,crypto
+arkham intel exchange,crypto
+btc,crypto
+xbt,crypto
+ltc,crypto
+nmc,crypto
+ppc,crypto
+doge,crypto
+xdg,crypto
+grc,crypto
+xpm,crypto
+xrp,crypto
+nxt,crypto
+aur,crypto
+dash,crypto
+mzc,crypto
+xmr,crypto
+tit,crypto
+xvg,crypto
+xlm,crypto
+vtc,crypto
+eth,crypto
+etc,crypto
+xno,crypto
+usdt,crypto
+firo,crypto
+zec,crypto
+bch,crypto
+eos,crypto
+ada,crypto
+trx,crypto
+ckb,crypto
+algo,crypto
+avax,crypto
+shib,crypto
+dot,crypto
+sol,crypto
+deso,crypto
+safemoon,crypto
+arkm,crypto
+january,month
+february,month
+march,month
+april,month
+may,month
+june,month
+july,month
+august,month
+september,month
+october,month
+november,month
+december,month
+senate,political
+house representatives,political
+congress,political
+president,political
+presidential,political
+supreme court,political
+legislature,political
+judiciary,political
+executive,political
+independent,political
+fed,econ
+federal reserve,econ
+gdp,econ
+cpi,econ
+inflation,econ
+interest rate,econ
+unemployment,econ
+recession,econ
+bull market,econ
+bear market,econ
+fiscal policy,econ
+monetary policy,econ
+s&p 500,econ
+nasdaq,econ
+dow jones,econ
+yield curve,econ
+quantitative easing,econ

@@ -1,0 +1,350 @@
+kalshi_key,poly_key,tag,kalshi_title,poly_match,semantic_score,key_sim_score,total_score,kalshi_id,poly_id
+unknown_2027,unknown_2027,politics,mamdani raise the minimum wage to usd 30 before 2027,mamdani raise the minimum wage to usd 30 before 2027,1.0,1.0,1.0,kxnycminwage-27jan01,74044
+gdp_2026,gdp_2026,economics,gdp growth in 2026,gdp growth in 2026,1.0,1.0,1.0,kxgdpyear-26,79137
+presidential_2028,presidential_2028,elections,2028 u.s. presidential election winner,presidential election winner 2028,0.9585,0.94,0.9493,kxpresperson-28,31552
+unknown_2025,unknown_2025,entertainment,most popular baby boy name in 2025,most popular boy name 2025,0.9398,0.87,0.9049,kxbabynameboy-26dec,66156
+unknown_2025,unknown_2025,entertainment,most popular baby girl name in 2025,most popular girl name 2025,0.9212,0.87,0.8956,kxbabynamegirl-26dec,66157
+presidential_2028,presidential_2028,elections,2028 presidential election winner (party),which party wins 2028 us presidential election,0.9034,0.85,0.8767,kxpresparty-2028,33228
+unknown_2026,unknown_2026,sports,win the ballon d'or in 2026,ballon d'or winner 2026,0.8994,0.8,0.8497,kxballondor-26,48361
+unknown_2026,unknown_2026,sports,lionel messi play in the world cup,lionel messi play in the 2026 fifa world cup,0.8295,0.87,0.8497,kxsoccerplaymessi-26,75515
+presidential_2028,presidential_2028,elections,2028 presidential election occur,presidential election winner 2028,0.8885,0.8,0.8442,kxpreselectionoccur-28,31552
+israel_2027,israel_2027,politics,israel and qatar normalize relations before 2027,israel and lebanon normalize relations before 2027,0.8194,0.86,0.8397,kxabrahamq-27,73147
+house_2026,house_2026,elections,which party will win the house race for in-06,which party will win the house in 2026,0.7985,0.87,0.8342,kxhouserace-in06-26,32225
+unknown_2027,unknown_2027,politics,recognize palestine before 2027,which countries will recognize palestine before 2027,0.9166,0.75,0.8333,kxrecogpalestine-27,73107
+fed_rate_2027,fed_rate_2027,economics,fed rate cut before 2027,fed emergency rate cut before 2027,0.813,0.83,0.8215,kxratecut-26dec31,79124
+presidential_2028,presidential_2028,elections,run for the democratic presidential nomination in 2028,democratic presidential nominee 2028,0.8793,0.76,0.8197,kx2028drun-28,30829
+presidential_2028,presidential_2028,elections,run for the 2028 republican presidential nomination,republican presidential nominee 2028,0.8574,0.78,0.8187,kx2028rrun-28,31875
+house_2026,house_2026,elections,which party will win the house race for in-04,which party will win the house in 2026,0.7793,0.84,0.8096,kxhouserace-in04-26,32225
+house_2026,house_2026,elections,which party will win the house race for in-02,which party will win the house in 2026,0.7406,0.87,0.8053,kxhouserace-in02-26,32225
+house_2026,house_2026,elections,which party will win the house race for mn-06,which party will win the house in 2026,0.7661,0.84,0.803,kxhouserace-mn06-26,32225
+house_2026,house_2026,elections,which party will win the house race for or-06,which party will win the house in 2026,0.7787,0.82,0.7993,kxhouserace-or06-26,32225
+trump_2027,trump_2027,politics,trump cut corporate taxes this year,trump cut corporate taxes before 2027,0.9087,0.69,0.7993,kxcorptaxcut-27jan01,73145
+house_2026,house_2026,elections,which party will win the house race for in-08,which party will win the house in 2026,0.7542,0.84,0.7971,kxhouserace-in08-26,32225
+house_2026,house_2026,elections,which party will win the house race for in-03,which party will win the house in 2026,0.7497,0.84,0.7949,kxhouserace-in03-26,32225
+house_2026,house_2026,elections,which party will win the house race for in-07,which party will win the house in 2026,0.7479,0.84,0.7939,kxhousein7-26,32225
+unknown_2027,unknown_2027,politics,be arrested before 2027,obama arrested before 2027,0.7639,0.82,0.792,kxarrest-27jan,73186
+house_2026,house_2026,elections,which party will win the house race for in-05,which party will win the house in 2026,0.7436,0.84,0.7918,kxhouserace-in05-26,32225
+house_2026,house_2026,elections,which party will win the house race for in-09,which party will win the house in 2026,0.7304,0.84,0.7852,kxhouserace-in09-26,32225
+house_2026,house_2026,elections,which party will win the house race for mi-06,which party will win the house in 2026,0.7275,0.84,0.7838,kxhouserace-mi06-26,32225
+unknown_2027,unknown_2027,politics,us-iran nuclear deal,us-iran nuclear deal before 2027,0.7976,0.77,0.7838,kxusairanagreement-27,73106
+house_2026,house_2026,elections,which party will win the house race for or-04,which party will win the house in 2026,0.7671,0.8,0.7836,kxhouserace-or04-26,32225
+house_2026,house_2026,elections,which party will win the house race for ny-06,which party will win the house in 2026,0.7264,0.84,0.7832,kxhouserace-ny06-26,32225
+house_2026,house_2026,elections,which party will win the house race for mn-04,which party will win the house in 2026,0.7463,0.82,0.7832,kxhouserace-mn04-26,32225
+house_2026,house_2026,elections,which party will win the house race for mn-02,which party will win the house in 2026,0.7231,0.84,0.7816,housemn2-26,32225
+house_2026,house_2026,elections,which party will win the house race for la-06,which party will win the house in 2026,0.7403,0.82,0.7801,kxhouserace-la06-26,32225
+house_2026,house_2026,elections,which party will win the house race for nc-06,which party will win the house in 2026,0.7168,0.84,0.7784,kxhouserace-nc06-26,32225
+house_2026,house_2026,elections,which party will win the house race for co-06,which party will win the house in 2026,0.7518,0.8,0.7759,kxhouserace-co06-26,32225
+house_2026,house_2026,elections,which party will win the house race for mn-07,which party will win the house in 2026,0.7297,0.82,0.7748,kxhouserace-mn07-26,32225
+house_2026,house_2026,elections,which party will win the house race for ma-06,which party will win the house in 2026,0.7279,0.82,0.774,kxhouserace-ma06-26,32225
+house_2026,house_2026,elections,which party will win the house race for mn-05,which party will win the house in 2026,0.7271,0.82,0.7735,kxhouserace-mn05-26,32225
+house_2026,house_2026,elections,which party will win the house race for oh-06,which party will win the house in 2026,0.7268,0.82,0.7734,kxhouserace-oh06-26,32225
+house_2026,house_2026,elections,which party will win the house race for mn-03,which party will win the house in 2026,0.7251,0.82,0.7726,kxhouserace-mn03-26,32225
+california_2026,california_2026,elections,california billionaire wealth tax pass,billionaire one-time wealth tax passes in california election 2026,0.8138,0.73,0.7719,kxcawealthtax-26,64731
+house_2026,house_2026,elections,which party will win the house race for ca-06,which party will win the house in 2026,0.7404,0.8,0.7702,kxhouserace-ca06-26,32225
+house_2026,house_2026,elections,which party will win the house race for mo-06,which party will win the house in 2026,0.7203,0.82,0.7702,kxhouserace-mo06-26,32225
+house_2026,house_2026,elections,which party will win the house race for nv-02,which party will win the house in 2026,0.6997,0.84,0.7699,kxhouserace-nv02-26,32225
+house_2026,house_2026,elections,which party will win the house race for or-02,which party will win the house in 2026,0.7186,0.82,0.7693,kxhouserace-or02-26,32225
+house_2026,house_2026,elections,which party will win the house race for me-02,which party will win the house in 2026,0.7184,0.82,0.7692,houseme2-26,32225
+house_2026,house_2026,elections,which party will win the house race for sc-06,which party will win the house in 2026,0.7373,0.8,0.7686,kxhouserace-sc06-26,32225
+house_2026,house_2026,elections,which party will win the house race for nv-04,which party will win the house in 2026,0.7165,0.82,0.7682,housenv4-26,32225
+house_2026,house_2026,elections,which party will win the house race for or-03,which party will win the house in 2026,0.7361,0.8,0.7681,kxhouserace-or03-26,32225
+house_2026,house_2026,elections,which party will win the house race for in-01,which party will win the house in 2026,0.6947,0.84,0.7673,housein1-26,32225
+house_2026,house_2026,elections,which party will win the house race for pa-06,which party will win the house in 2026,0.7135,0.82,0.7667,kxhouserace-pa06-26,32225
+house_2026,house_2026,elections,which party will win the house race for md-06,which party will win the house in 2026,0.712,0.82,0.766,kxhouserace-md06-26,32225
+house_2026,house_2026,elections,which party will win the house race for nm-02,which party will win the house in 2026,0.6917,0.84,0.7658,housenm2-26,32225
+house_2026,house_2026,elections,which party will win the house race for id-02,which party will win the house in 2026,0.6894,0.84,0.7647,kxhouserace-id02-26,32225
+house_2026,house_2026,elections,which party will win the house race for wv-02,which party will win the house in 2026,0.729,0.8,0.7645,kxhouserace-wv02-26,32225
+house_2026,house_2026,elections,which party will win the house race for fl-06,which party will win the house in 2026,0.7282,0.8,0.7641,kxhouserace-fl06-26,32225
+house_2026,house_2026,elections,which party will win the house race for il-06,which party will win the house in 2026,0.6883,0.84,0.7641,kxhouserace-il06-26,32225
+house_2026,house_2026,elections,which party will win the house race for nc-02,which party will win the house in 2026,0.6881,0.84,0.764,kxhouserace-nc02-26,32225
+house_2026,house_2026,elections,which party will win the house race for mn-08,which party will win the house in 2026,0.7074,0.82,0.7637,kxhouserace-mn08-26,32225
+house_2026,house_2026,elections,which party will win the house race for ny-02,which party will win the house in 2026,0.6862,0.84,0.7631,kxhouserace-ny02-26,32225
+house_2026,house_2026,elections,which party will win the house race for al-06,which party will win the house in 2026,0.7261,0.8,0.7631,kxhouserace-al06-26,32225
+house_2026,house_2026,elections,which party will win the house race for nv-03,which party will win the house in 2026,0.7052,0.82,0.7626,housenv3-26,32225
+house_2026,house_2026,elections,which party will win the house race for nj-06,which party will win the house in 2026,0.682,0.84,0.761,kxhouserace-nj06-26,32225
+house_2026,house_2026,elections,which party will win the house race for wa-06,which party will win the house in 2026,0.7219,0.8,0.7609,kxhouserace-wa06-26,32225
+unknown_2027,unknown_2027,politics,mamdani tax billionaires before 2027,mamdani pass the 2% millionaire tax before 2027,0.8401,0.68,0.7601,kxnyctaxbillions-27jan01,74106
+house_2026,house_2026,elections,which party will win the house race for mi-02,which party will win the house in 2026,0.6788,0.84,0.7594,kxhouserace-mi02-26,32225
+house_2026,house_2026,elections,which party will win the house race for ma-02,which party will win the house in 2026,0.6975,0.82,0.7587,kxhouserace-ma02-26,32225
+house_2026,house_2026,elections,which party will win the house race for ny-04,which party will win the house in 2026,0.6974,0.82,0.7587,houseny4-26,32225
+house_2026,house_2026,elections,which party will win the house race for ny-07,which party will win the house in 2026,0.6948,0.82,0.7574,kxhouserace-ny07-26,32225
+house_2026,house_2026,elections,which party will win the house race for nc-04,which party will win the house in 2026,0.6938,0.82,0.7569,kxhouserace-nc04-26,32225
+house_2026,house_2026,elections,which party will win the house race for ny-05,which party will win the house in 2026,0.6929,0.82,0.7565,kxhouserace-ny05-26,32225
+house_2026,house_2026,elections,which party will win the house race for mi-04,which party will win the house in 2026,0.6923,0.82,0.7562,housemi4-26,32225
+house_2026,house_2026,elections,which party will win the house race for mi-07,which party will win the house in 2026,0.6921,0.82,0.756,housemi7-26,32225
+house_2026,house_2026,elections,which party will win the house race for oh-02,which party will win the house in 2026,0.6914,0.82,0.7557,kxhouserace-oh02-26,32225
+house_2026,house_2026,elections,which party will win the house race for nm-03,which party will win the house in 2026,0.6905,0.82,0.7553,kxhouserace-nm03-26,32225
+house_2026,house_2026,elections,which party will win the house race for ky-06,which party will win the house in 2026,0.6903,0.82,0.7552,kxhouserace-ky06-26,32225
+house_2026,house_2026,elections,which party will win the house race for wi-06,which party will win the house in 2026,0.7102,0.8,0.7551,kxhouserace-wi06-26,32225
+house_2026,house_2026,elections,which party will win the house race for nc-05,which party will win the house in 2026,0.6902,0.82,0.7551,kxhouserace-nc05-26,32225
+house_2026,house_2026,elections,which party will win the house race for nc-07,which party will win the house in 2026,0.6893,0.82,0.7547,kxhouserace-nc07-26,32225
+house_2026,house_2026,elections,which party will win the house race for la-04,which party will win the house in 2026,0.7089,0.8,0.7545,kxhouserace-la04-26,32225
+israel_2027,israel_2027,politics,which countries will normalize relations with israel before 2027,israel and lebanon normalize relations before 2027,0.8388,0.67,0.7544,kxabrahamsa-27,73147
+house_2026,house_2026,elections,which party will win the house race for md-02,which party will win the house in 2026,0.6876,0.82,0.7538,kxhouserace-md02-26,32225
+house_2026,house_2026,elections,which party will win the house race for nh-02,which party will win the house in 2026,0.6655,0.84,0.7527,kxhouserace-nh02-26,32225
+house_2026,house_2026,elections,which party will win the house race for la-02,which party will win the house in 2026,0.6847,0.82,0.7524,kxhouserace-la02-26,32225
+house_2026,house_2026,elections,which party will win the house race for mn-01,which party will win the house in 2026,0.6844,0.82,0.7522,kxhouserace-mn01-26,32225
+house_2026,house_2026,elections,which party will win the house race for oh-04,which party will win the house in 2026,0.7038,0.8,0.7519,kxhouserace-oh04-26,32225
+house_2026,house_2026,elections,which party will win the house race for co-04,which party will win the house in 2026,0.7337,0.77,0.7518,kxhouserace-co04-26,32225
+house_2026,house_2026,elections,which party will win the house race for nc-03,which party will win the house in 2026,0.6834,0.82,0.7517,kxhouserace-nc03-26,32225
+house_2026,house_2026,elections,which party will win the house race for mo-02,which party will win the house in 2026,0.6832,0.82,0.7516,kxhouserace-mo02-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-02,which party will win the house in 2026,0.703,0.8,0.7515,kxhouserace-ca02-26,32225
+house_2026,house_2026,elections,which party will win the house race for va-06,which party will win the house in 2026,0.7024,0.8,0.7512,kxhouserace-va06-26,32225
+house_2026,house_2026,elections,which party will win the house race for ny-03,which party will win the house in 2026,0.6823,0.82,0.7512,houseny3-26,32225
+house_2026,house_2026,elections,which party will win the house race for ma-04,which party will win the house in 2026,0.7018,0.8,0.7509,kxhouserace-ma04-26,32225
+house_2026,house_2026,elections,which party will win the house race for ny-26,which party will win the house in 2026,0.6613,0.84,0.7507,kxhouserace-ny26-26,32225
+house_2026,house_2026,elections,which party will win the house race for mi-08,which party will win the house in 2026,0.6807,0.82,0.7504,housemi8-26,32225
+house_2026,house_2026,elections,which party will win the house race for nc-08,which party will win the house in 2026,0.6804,0.82,0.7502,kxhouserace-nc08-26,32225
+house_2026,house_2026,elections,which party will win the house race for ny-08,which party will win the house in 2026,0.6788,0.82,0.7494,kxhouserace-ny08-26,32225
+unknown_2027,unknown_2027,economics,us defaults before 2027,us defaults on debt by 2027,0.7388,0.76,0.7494,kxdefault-26dec31,73331
+house_2026,house_2026,elections,which party will win the house race for ms-02,which party will win the house in 2026,0.6785,0.82,0.7493,kxhouserace-ms02-26,32225
+house_2026,house_2026,elections,which party will win the house race for mo-04,which party will win the house in 2026,0.6986,0.8,0.7493,kxhouserace-mo04-26,32225
+house_2026,house_2026,elections,which party will win the house race for az-06,which party will win the house in 2026,0.6979,0.8,0.749,houseaz6-26,32225
+trump_2026,trump_2026,politics,how many people will trump pardon in 2026,how many people will trump deport in 2026,0.6677,0.83,0.7489,kxpardonsyear-26dec,73866
+house_2026,house_2026,elections,which party will win the house race for ia-02,which party will win the house in 2026,0.6575,0.84,0.7488,kxhouserace-ia02-26,32225
+house_2026,house_2026,elections,which party will win the house race for pa-02,which party will win the house in 2026,0.6768,0.82,0.7484,kxhouserace-pa02-26,32225
+house_2026,house_2026,elections,which party will win the house race for nc-09,which party will win the house in 2026,0.6767,0.82,0.7483,kxhouserace-nc09-26,32225
+house_2026,house_2026,elections,which party will win the house race for mi-03,which party will win the house in 2026,0.6766,0.82,0.7483,housemi3-26,32225
+house_2026,house_2026,elections,which party will win the house race for md-04,which party will win the house in 2026,0.6962,0.8,0.7481,kxhouserace-md04-26,32225
+house_2026,house_2026,elections,which party will win the house race for ma-07,which party will win the house in 2026,0.6956,0.8,0.7478,kxhouserace-ma07-26,32225
+house_2026,house_2026,elections,which party will win the house race for ct-02,which party will win the house in 2026,0.6956,0.8,0.7478,kxhouserace-ct02-26,32225
+house_2026,house_2026,elections,which party will win the house race for sc-02,which party will win the house in 2026,0.6956,0.8,0.7478,kxhouserace-sc02-26,32225
+house_2026,house_2026,elections,which party will win the house race for tx-06,which party will win the house in 2026,0.6953,0.8,0.7477,kxhouserace-tx06-26,32225
+house_2026,house_2026,elections,which party will win the house race for ny-09,which party will win the house in 2026,0.675,0.82,0.7475,kxhouserace-ny09-26,32225
+house_2026,house_2026,elections,which party will win the house race for ga-06,which party will win the house in 2026,0.6945,0.8,0.7472,kxhouserace-ga06-26,32225
+house_2026,house_2026,elections,which party will win the house race for mi-05,which party will win the house in 2026,0.674,0.82,0.747,kxhouserace-mi05-26,32225
+house_2026,house_2026,elections,which party will win the house race for hi-02,which party will win the house in 2026,0.6934,0.8,0.7467,kxhouserace-hi02-26,32225
+house_2026,house_2026,elections,which party will win the house race for ma-05,which party will win the house in 2026,0.6918,0.8,0.7459,kxhouserace-ma05-26,32225
+house_2026,house_2026,elections,which party will win the house race for ny-20,which party will win the house in 2026,0.6512,0.84,0.7456,kxhouserace-ny20-26,32225
+house_2026,house_2026,elections,which party will win the house race for la-05,which party will win the house in 2026,0.691,0.8,0.7455,kxhouserace-la05-26,32225
+house_2026,house_2026,elections,which party will win the house race for mi-09,which party will win the house in 2026,0.6707,0.82,0.7454,kxhouserace-mi09-26,32225
+house_2026,house_2026,elections,which party will win the house race for ms-04,which party will win the house in 2026,0.6907,0.8,0.7454,kxhouserace-ms04-26,32225
+house_2026,house_2026,elections,which party will win the house race for pa-04,which party will win the house in 2026,0.6908,0.8,0.7454,kxhouserace-pa04-26,32225
+house_2026,house_2026,elections,which party will win the house race for ar-02,which party will win the house in 2026,0.6907,0.8,0.7454,kxhouserace-ar02-26,32225
+house_2026,house_2026,elections,which party will win the house race for mo-07,which party will win the house in 2026,0.6901,0.8,0.7451,kxhouserace-mo07-26,32225
+house_2026,house_2026,elections,which party will win the house race for al-02,which party will win the house in 2026,0.6891,0.8,0.7446,kxhouserace-al02-26,32225
+house_2026,house_2026,elections,which party will win the house race for mt-02,which party will win the house in 2026,0.6689,0.82,0.7445,kxhouserace-mt02-26,32225
+house_2026,house_2026,elections,which party will win the house race for ia-04,which party will win the house in 2026,0.6688,0.82,0.7444,kxhouserace-ia04-26,32225
+house_2026,house_2026,elections,which party will win the house race for oh-03,which party will win the house in 2026,0.6885,0.8,0.7443,kxhouserace-oh03-26,32225
+house_2026,house_2026,elections,which party will win the house race for co-02,which party will win the house in 2026,0.6879,0.8,0.7439,kxhouserace-co02-26,32225
+house_2026,house_2026,elections,which party will win the house race for or-5,which party will win the house in 2026,0.7077,0.78,0.7438,houseor5-26,32225
+house_2026,house_2026,elections,which party will win the house race for fl-02,which party will win the house in 2026,0.6871,0.8,0.7436,kxhouserace-fl02-26,32225
+house_2026,house_2026,elections,which party will win the house race for nv-01,which party will win the house in 2026,0.6664,0.82,0.7432,housenv1-26,32225
+house_2026,house_2026,elections,which party will win the house race for ky-02,which party will win the house in 2026,0.6663,0.82,0.7432,kxhouserace-ky02-26,32225
+house_2026,house_2026,elections,which party will win the house race for mo-03,which party will win the house in 2026,0.6861,0.8,0.7431,kxhouserace-mo03-26,32225
+house_2026,house_2026,elections,which party will win the house race for ut-02,which party will win the house in 2026,0.6852,0.8,0.7426,kxhouseut02-26,32225
+house_2026,house_2026,elections,which party will win the house race for mo-05,which party will win the house in 2026,0.6849,0.8,0.7424,kxhousemo5-26,32225
+house_2026,house_2026,elections,which party will win the house race for md-07,which party will win the house in 2026,0.6846,0.8,0.7423,kxhouserace-md07-26,32225
+house_2026,house_2026,elections,which party will win the house race for ma-03,which party will win the house in 2026,0.6839,0.8,0.7419,kxhouserace-ma03-26,32225
+house_2026,house_2026,elections,which party will win the house race for al-04,which party will win the house in 2026,0.7137,0.77,0.7419,kxhouserace-al04-26,32225
+house_2026,house_2026,elections,which party will win the house race for oh-07,which party will win the house in 2026,0.6835,0.8,0.7417,kxhouserace-oh07-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-04,which party will win the house in 2026,0.7127,0.77,0.7414,kxhouserace-ca04-26,32225
+house_2026,house_2026,elections,which party will win the house race for la-03,which party will win the house in 2026,0.6821,0.8,0.7411,kxhouserace-la03-26,32225
+house_2026,house_2026,elections,which party will win the house race for ma-08,which party will win the house in 2026,0.6822,0.8,0.7411,kxhouserace-ma08-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-26,which party will win the house in 2026,0.6822,0.8,0.7411,kxhouserace-ca26-26,32225
+house_2026,house_2026,elections,which party will win the house race for co-08,which party will win the house in 2026,0.7118,0.77,0.7409,houseco8-26,32225
+house_2026,house_2026,elections,which party will win the house race for md-03,which party will win the house in 2026,0.6811,0.8,0.7406,kxhouserace-md03-26,32225
+house_2026,house_2026,elections,which party will win the house race for md-05,which party will win the house in 2026,0.681,0.8,0.7405,kxhouserace-md05-26,32225
+house_2026,house_2026,elections,which party will win the house race for ct-04,which party will win the house in 2026,0.7108,0.77,0.7404,kxhouserace-ct04-26,32225
+house_2026,house_2026,elections,which party will win the house race for oh-05,which party will win the house in 2026,0.68,0.8,0.74,kxhouserace-oh05-26,32225
+house_2026,house_2026,elections,which party will win the house race for or-01,which party will win the house in 2026,0.6798,0.8,0.7399,kxhouserace-or01-26,32225
+house_2026,house_2026,elections,which party will win the house race for pa-07,which party will win the house in 2026,0.6798,0.8,0.7399,housepa7-26,32225
+house_2026,house_2026,elections,which party will win the house race for ny-19,which party will win the house in 2026,0.6797,0.8,0.7398,houseny19-26,32225
+unknown_9999,unknown_9999,politics,keir starmer out,starmer out by,0.6792,0.8,0.7396,kxleavestarmer,17725
+house_2026,house_2026,elections,which party will win the house race for sc-04,which party will win the house in 2026,0.7089,0.77,0.7395,kxhouserace-sc04-26,32225
+house_2026,house_2026,elections,which party will win the house race for ms-03,which party will win the house in 2026,0.6789,0.8,0.7394,kxhouserace-ms03-26,32225
+house_2026,house_2026,elections,which party will win the house race for nc-12,which party will win the house in 2026,0.6585,0.82,0.7393,kxhouserace-nc12-26,32225
+house_2026,house_2026,elections,which party will win the house race for nm-01,which party will win the house in 2026,0.6584,0.82,0.7392,kxhouserace-nm01-26,32225
+house_2026,house_2026,elections,which party will win the house race for wa-02,which party will win the house in 2026,0.6784,0.8,0.7392,kxhouserace-wa02-26,32225
+house_2026,house_2026,elections,which party will win the house race for ma-09,which party will win the house in 2026,0.6784,0.8,0.7392,kxhouserace-ma09-26,32225
+house_2026,house_2026,elections,which party will win the house race for va-02,which party will win the house in 2026,0.6783,0.8,0.7392,houseva2-26,32225
+house_2026,house_2026,elections,which party will win the house race for mo-08,which party will win the house in 2026,0.678,0.8,0.739,kxhouserace-mo08-26,32225
+house_2026,house_2026,elections,which party will win the house race for id-01,which party will win the house in 2026,0.6557,0.82,0.7379,kxhouserace-id01-26,32225
+house_2026,house_2026,elections,which party will win the house race for fl-26,which party will win the house in 2026,0.6752,0.8,0.7376,kxhouserace-fl26-26,32225
+house_2026,house_2026,elections,which party will win the house race for oh-08,which party will win the house in 2026,0.6748,0.8,0.7374,kxhouserace-oh08-26,32225
+california_2026,california_2026,elections,california billionaire wealth tax appear on the ballot,billionaire one-time wealth tax passes in california election 2026,0.8041,0.67,0.7371,kxcabillionairetax-26nov03,64731
+house_2026,house_2026,elections,which party will win the house race for pa-03,which party will win the house in 2026,0.674,0.8,0.737,kxhouserace-pa03-26,32225
+house_2026,house_2026,elections,which party will win the house race for ny-21,which party will win the house in 2026,0.6532,0.82,0.7366,kxhouserace-ny21-26,32225
+house_2026,house_2026,elections,which party will win the house race for il-05,which party will win the house in 2026,0.6531,0.82,0.7366,kxhouserace-il05-26,32225
+house_2026,house_2026,elections,which party will win the house race for ar-04,which party will win the house in 2026,0.7031,0.77,0.7365,kxhouserace-ar04-26,32225
+house_2026,house_2026,elections,which party will win the house race for nc-01,which party will win the house in 2026,0.6531,0.82,0.7365,housenc1-26,32225
+house_2026,house_2026,elections,which party will win the house race for mi-12,which party will win the house in 2026,0.653,0.82,0.7365,kxhouserace-mi12-26,32225
+house_2026,house_2026,elections,which party will win the house race for il-07,which party will win the house in 2026,0.6529,0.82,0.7365,kxhouserace-il07-26,32225
+house_2026,house_2026,elections,which party will win the house race for co-03,which party will win the house in 2026,0.702,0.77,0.736,houseco3-26,32225
+house_2026,house_2026,elections,which party will win the house race for pa-05,which party will win the house in 2026,0.6721,0.8,0.736,kxhouserace-pa05-26,32225
+house_2026,house_2026,elections,which party will win the house race for sc-05,which party will win the house in 2026,0.7017,0.77,0.7358,kxhouserace-sc05-26,32225
+house_2026,house_2026,elections,which party will win the house race for ia-03,which party will win the house in 2026,0.6508,0.82,0.7354,houseia3-26,32225
+house_2026,house_2026,elections,which party will win the house race for nj-07,which party will win the house in 2026,0.6506,0.82,0.7353,housenj7-26,32225
+house_2026,house_2026,elections,which party will win the house race for co-07,which party will win the house in 2026,0.6995,0.77,0.7348,kxhouserace-co07-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-07,which party will win the house in 2026,0.6993,0.77,0.7347,kxhouserace-ca07-26,32225
+house_2026,house_2026,elections,which party will win the house race for sc-07,which party will win the house in 2026,0.6994,0.77,0.7347,kxhouserace-sc07-26,32225
+house_2026,house_2026,elections,which party will win the house race for co-05,which party will win the house in 2026,0.6991,0.77,0.7346,kxhouserace-co05-26,32225
+house_2026,house_2026,elections,which party will win the house race for md-08,which party will win the house in 2026,0.6685,0.8,0.7342,kxhouserace-md08-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-03,which party will win the house in 2026,0.6983,0.77,0.7342,houseca3-26,32225
+house_2026,house_2026,elections,which party will win the house race for ct-05,which party will win the house in 2026,0.6985,0.77,0.7342,housect5-26,32225
+house_2026,house_2026,elections,which party will win the house race for wi-02,which party will win the house in 2026,0.6677,0.8,0.7339,kxhouserace-wi02-26,32225
+house_2026,house_2026,elections,which party will win the house race for fl-04,which party will win the house in 2026,0.697,0.77,0.7335,kxhouserace-fl04-26,32225
+house_2026,house_2026,elections,which party will win the house race for nd-al,which party will win the house in 2026,0.6667,0.8,0.7333,kxhouserace-ndal-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-20,which party will win the house in 2026,0.6649,0.8,0.7324,kxhouserace-ca20-26,32225
+house_2026,house_2026,elections,which party will win the house race for sc-03,which party will win the house in 2026,0.6944,0.77,0.7322,kxhouserace-sc03-26,32225
+house_2026,house_2026,elections,which party will win the house race for ct-03,which party will win the house in 2026,0.6943,0.77,0.7321,kxhouserace-ct03-26,32225
+house_2026,house_2026,elections,which party will win the house race for fl-22,which party will win the house in 2026,0.6642,0.8,0.7321,kxhouserace-fl22-26,32225
+house_2026,house_2026,elections,which party will win the house race for ri-02,which party will win the house in 2026,0.6636,0.8,0.7318,kxhouserace-ri02-26,32225
+house_2026,house_2026,elections,which party will win the house race for wv-01,which party will win the house in 2026,0.6934,0.77,0.7317,kxhouserace-wv01-26,32225
+house_2026,house_2026,elections,which party will win the house race for fl-20,which party will win the house in 2026,0.6623,0.8,0.7311,kxhouserace-fl20-26,32225
+house_2026,house_2026,elections,which party will win the house race for az-02,which party will win the house in 2026,0.6617,0.8,0.7309,houseaz2-26,32225
+house_2026,house_2026,elections,which party will win the house race for tn-06,which party will win the house in 2026,0.6618,0.8,0.7309,kxhouserace-tn06-26,32225
+house_2026,house_2026,elections,which party will win the house race for pa-08,which party will win the house in 2026,0.6617,0.8,0.7308,housepa8-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-05,which party will win the house in 2026,0.6916,0.77,0.7308,kxhouserace-ca05-26,32225
+house_2026,house_2026,elections,which party will win the house race for nc-13,which party will win the house in 2026,0.6614,0.8,0.7307,kxhouserace-nc13-26,32225
+house_2026,house_2026,elections,which party will win the house race for ny-18,which party will win the house in 2026,0.6612,0.8,0.7306,houseny18-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-22,which party will win the house in 2026,0.6601,0.8,0.73,houseca22-26,32225
+house_2026,house_2026,elections,which party will win the house race for ar-03,which party will win the house in 2026,0.6899,0.77,0.7299,kxhouserace-ar03-26,32225
+house_2026,house_2026,elections,which party will win the house race for pa-09,which party will win the house in 2026,0.6599,0.8,0.7299,kxhouserace-pa09-26,32225
+house_2026,house_2026,elections,which party will win the house race for oh-09,which party will win the house in 2026,0.6597,0.8,0.7298,houseoh9-26,32225
+house_2026,house_2026,elections,which party will win the house race for ga-02,which party will win the house in 2026,0.6592,0.8,0.7296,kxhouserace-ga02-26,32225
+house_2026,house_2026,elections,which party will win the house race for ma-01,which party will win the house in 2026,0.6591,0.8,0.7295,kxhouserace-ma01-26,32225
+house_2026,house_2026,elections,which party will win the house race for me-01,which party will win the house in 2026,0.6588,0.8,0.7294,kxhouserace-me01-26,32225
+house_2026,house_2026,elections,which party will win the house race for tx-02,which party will win the house in 2026,0.6587,0.8,0.7293,kxhouserace-tx02-26,32225
+house_2026,house_2026,elections,which party will win the house race for wa-04,which party will win the house in 2026,0.6884,0.77,0.7292,kxhouserace-wa04-26,32225
+house_2026,house_2026,elections,which party will win the house race for ut-04,which party will win the house in 2026,0.6885,0.77,0.7292,kxhouserace-ut04-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-08,which party will win the house in 2026,0.6876,0.77,0.7288,kxhouserace-ca08-26,32225
+house_2026,house_2026,elections,which party will win the house race for nc-11,which party will win the house in 2026,0.6572,0.8,0.7286,kxhousenc11-26,32225
+house_2026,house_2026,elections,which party will win the house race for al-07,which party will win the house in 2026,0.6871,0.77,0.7286,kxhouserace-al07-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-46,which party will win the house in 2026,0.6869,0.77,0.7284,kxhouserace-ca46-26,32225
+house_2026,house_2026,elections,which party will win the house race for fl-07,which party will win the house in 2026,0.6867,0.77,0.7283,kxhouserace-fl07-26,32225
+house_2026,house_2026,elections,which party will win the house race for al-05,which party will win the house in 2026,0.6865,0.77,0.7282,kxhouserace-al05-26,32225
+unknown_9999,unknown_9999,entertainment,be the next james bond villain,next james bond actor,0.8261,0.63,0.728,kxperformrole007-villain,35747
+house_2026,house_2026,elections,which party will win the house race for al-03,which party will win the house in 2026,0.6859,0.77,0.7279,kxhouserace-al03-26,32225
+house_2026,house_2026,elections,which party will win the house race for ky-03,which party will win the house in 2026,0.6557,0.8,0.7278,kxhouserace-ky03-26,32225
+house_2026,house_2026,elections,which party will win the house race for ky-04,which party will win the house in 2026,0.6551,0.8,0.7276,kxhouserace-ky04-26,32225
+house_2026,house_2026,elections,which party will win the house race for oh-12,which party will win the house in 2026,0.6545,0.8,0.7273,kxhouserace-oh12-26,32225
+house_2026,house_2026,elections,which party will win the house race for la-01,which party will win the house in 2026,0.6537,0.8,0.7269,kxhouserace-la01-26,32225
+house_2026,house_2026,elections,which party will win the house race for wi-04,which party will win the house in 2026,0.6836,0.77,0.7268,kxhouserace-wi04-26,32225
+house_2026,house_2026,elections,which party will win the house race for mo-01,which party will win the house in 2026,0.6531,0.8,0.7266,kxhouserace-mo01-26,32225
+house_2026,house_2026,elections,which party will win the house race for fl-03,which party will win the house in 2026,0.6831,0.77,0.7265,kxhouserace-fl03-26,32225
+house_2026,house_2026,elections,which party will win the house race for oh-01,which party will win the house in 2026,0.6528,0.8,0.7264,houseoh1-26,32225
+house_2026,house_2026,elections,which party will win the house race for ny-11,which party will win the house in 2026,0.6524,0.8,0.7262,kxhouserace-ny11-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-09,which party will win the house in 2026,0.6819,0.77,0.7259,houseca9-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-36,which party will win the house in 2026,0.6817,0.77,0.7259,kxhouserace-ca36-26,32225
+house_2026,house_2026,elections,which party will win the house race for va-04,which party will win the house in 2026,0.6813,0.77,0.7256,kxhouserace-va04-26,32225
+house_2026,house_2026,elections,which party will win the house race for mi-13,which party will win the house in 2026,0.6513,0.8,0.7256,kxhouserace-mi13-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-19,which party will win the house in 2026,0.7011,0.75,0.7256,kxhouserace-ca19-26,32225
+house_2026,house_2026,elections,which party will win the house race for ut-03,which party will win the house in 2026,0.681,0.77,0.7255,kxhouseut03-26,32225
+house_2026,house_2026,elections,which party will win the house race for ky-05,which party will win the house in 2026,0.6503,0.8,0.7252,kxhouserace-ky05-26,32225
+house_2026,house_2026,elections,which party will win the house race for va-07,which party will win the house in 2026,0.6773,0.77,0.7237,houseva7-26,32225
+house_2026,house_2026,elections,which party will win the house race for wa-07,which party will win the house in 2026,0.6764,0.77,0.7232,kxhouserace-wa07-26,32225
+house_2026,house_2026,elections,which party will win the house race for wi-07,which party will win the house in 2026,0.6759,0.77,0.723,kxhouserace-wi07-26,32225
+house_2026,house_2026,elections,which party will win the house race for wa-03,which party will win the house in 2026,0.6752,0.77,0.7226,housewa3-26,32225
+house_2026,house_2026,elections,which party will win the house race for fl-05,which party will win the house in 2026,0.6749,0.77,0.7225,kxhouserace-fl05-26,32225
+house_2026,house_2026,elections,which party will win the house race for ga-04,which party will win the house in 2026,0.6739,0.77,0.7219,kxhouserace-ga04-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-18,which party will win the house in 2026,0.6934,0.75,0.7217,kxhouserace-ca18-26,32225
+house_2026,house_2026,elections,which party will win the house race for fl-19,which party will win the house in 2026,0.6925,0.75,0.7212,kxhouserace-fl19-26,32225
+house_2026,house_2026,elections,which party will win the house race for wa-05,which party will win the house in 2026,0.6721,0.77,0.7211,kxhouserace-wa05-26,32225
+unknown_2027,unknown_2027,politics,mamdani tax incomes over usd 1m before 2027,mamdani pass the 2% millionaire tax before 2027,0.8117,0.63,0.7209,kxnyctaxmillions-27jan01,74106
+house_2026,house_2026,elections,which party will win the house race for wi-05,which party will win the house in 2026,0.6717,0.77,0.7208,kxhouserace-wi05-26,32225
+house_2026,house_2026,elections,which party will win the house race for va-03,which party will win the house in 2026,0.6714,0.77,0.7207,kxhouserace-va03-26,32225
+new_2026,new_2026,entertainment,release a new album in 2026,which artists will release a new song in 2026,0.8007,0.64,0.7204,kxalbumrelease-26,79103
+house_2026,house_2026,elections,which party will win the house race for va-05,which party will win the house in 2026,0.6705,0.77,0.7203,kxhouserace-va05-26,32225
+house_2026,house_2026,elections,which party will win the house race for fl-21,which party will win the house in 2026,0.6694,0.77,0.7197,kxhouserace-fl21-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-21,which party will win the house in 2026,0.669,0.77,0.7195,houseca21-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-12,which party will win the house in 2026,0.6689,0.77,0.7195,kxhouserace-ca12-26,32225
+house_2026,house_2026,elections,which party will win the house race for fl-08,which party will win the house in 2026,0.669,0.77,0.7195,kxhouserace-fl08-26,32225
+house_2026,house_2026,elections,which party will win the house race for tx-04,which party will win the house in 2026,0.6674,0.77,0.7187,kxhouserace-tx04-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-01,which party will win the house in 2026,0.6675,0.77,0.7187,kxhouserace-ca01-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-52,which party will win the house in 2026,0.6668,0.77,0.7184,kxhouserace-ca52-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-42,which party will win the house in 2026,0.6661,0.77,0.718,kxhouserace-ca42-26,32225
+house_2026,house_2026,elections,which party will win the house race for va-08,which party will win the house in 2026,0.6653,0.77,0.7177,kxhouserace-va08-26,32225
+house_2026,house_2026,elections,which party will win the house race for wi-03,which party will win the house in 2026,0.6652,0.77,0.7176,housewi3-26,32225
+house_2026,house_2026,elections,which party will win the house race for fl-09,which party will win the house in 2026,0.6649,0.77,0.7174,kxhouserace-fl09-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-27,which party will win the house in 2026,0.6643,0.77,0.7171,houseca27-26,32225
+house_2026,house_2026,elections,which party will win the house race for fl-23,which party will win the house in 2026,0.664,0.77,0.717,housefl23-26,32225
+house_2026,house_2026,elections,which party will win the house race for oh-13,which party will win the house in 2026,0.6636,0.77,0.7168,houseoh13-26,32225
+house_2026,house_2026,elections,which party will win the house race for ct-01,which party will win the house in 2026,0.6636,0.77,0.7168,kxhouserace-ct01-26,32225
+house_2026,house_2026,elections,which party will win the house race for tx-07,which party will win the house in 2026,0.6632,0.77,0.7166,kxhouserace-tx07-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-23,which party will win the house in 2026,0.6631,0.77,0.7166,kxhouserace-ca23-26,32225
+house_2026,house_2026,elections,which party will win the house race for co-01,which party will win the house in 2026,0.6625,0.77,0.7162,kxhouserace-co01-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-51,which party will win the house in 2026,0.6824,0.75,0.7162,kxhouserace-ca51-26,32225
+house_2026,house_2026,elections,which party will win the house race for sc-01,which party will win the house in 2026,0.6618,0.77,0.7159,kxhouserace-sc01-26,32225
+house_2026,house_2026,elections,which party will win the house race for fl-18,which party will win the house in 2026,0.6811,0.75,0.7156,kxhouserace-fl18-26,32225
+house_2026,house_2026,elections,which party will win the house race for ga-07,which party will win the house in 2026,0.6604,0.77,0.7152,kxhouserace-ga07-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-13,which party will win the house in 2026,0.6789,0.75,0.7145,houseca13-26,32225
+house_2026,house_2026,elections,which party will win the house race for va-09,which party will win the house in 2026,0.659,0.77,0.7145,kxhouserace-va09-26,32225
+house_2026,house_2026,elections,which party will win the house race for ga-05,which party will win the house in 2026,0.6584,0.77,0.7142,kxhouserace-ga05-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-24,which party will win the house in 2026,0.6579,0.77,0.7139,kxhouserace-ca24-26,32225
+house_2026,house_2026,elections,which party will win the house race for az-04,which party will win the house in 2026,0.6572,0.77,0.7136,kxhouserace-az04-26,32225
+house_2026,house_2026,elections,which party will win the house race for al-01,which party will win the house in 2026,0.6566,0.77,0.7133,kxhouserace-al01-26,32225
+house_2026,house_2026,elections,which party will win the house race for ga-03,which party will win the house in 2026,0.6565,0.77,0.7132,kxhouserace-ga03-26,32225
+house_2026,house_2026,elections,which party will win the house race for wa-08,which party will win the house in 2026,0.6561,0.77,0.7131,kxhousewa8-26,32225
+house_2026,house_2026,elections,which party will win the house race for az-07,which party will win the house in 2026,0.6559,0.77,0.713,kxhouserace-az07-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-50,which party will win the house in 2026,0.6553,0.77,0.7127,kxhouserace-ca50-26,32225
+house_2026,house_2026,elections,which party will win the house race for ar-01,which party will win the house in 2026,0.6551,0.77,0.7126,kxhouserace-ar01-26,32225
+house_2026,house_2026,elections,which party will win the house race for fl-27,which party will win the house in 2026,0.6546,0.77,0.7123,kxhouserace-fl27-26,32225
+house_2026,house_2026,elections,which party will win the house race for wi-08,which party will win the house in 2026,0.6541,0.77,0.7121,kxhouserace-wi08-26,32225
+house_2026,house_2026,elections,which party will win the house race for oh-11,which party will win the house in 2026,0.6543,0.77,0.7121,kxhouserace-oh11-26,32225
+house_2026,house_2026,elections,which party will win the house race for wa-09,which party will win the house in 2026,0.6541,0.77,0.712,kxhouserace-wa09-26,32225
+house_2026,house_2026,elections,which party will win the house race for fl-28,which party will win the house in 2026,0.6538,0.77,0.7119,kxhouserace-fl28-26,32225
+house_2026,house_2026,elections,which party will win the house race for fl-12,which party will win the house in 2026,0.6533,0.77,0.7117,kxhouserace-fl12-26,32225
+house_2026,house_2026,elections,which party will win the house race for az-03,which party will win the house in 2026,0.653,0.77,0.7115,kxhouserace-az03-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-10,which party will win the house in 2026,0.6529,0.77,0.7115,kxhouserace-ca10-26,32225
+house_2026,house_2026,elections,which party will win the house race for tx-03,which party will win the house in 2026,0.6526,0.77,0.7113,kxhouserace-tx03-26,32225
+house_2026,house_2026,elections,which party will win the house race for tx-05,which party will win the house in 2026,0.652,0.77,0.711,kxhouserace-tx05-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-16,which party will win the house in 2026,0.6519,0.77,0.7109,kxhouserace-ca16-26,32225
+house_2026,house_2026,elections,which party will win the house race for pa-13,which party will win the house in 2026,0.6518,0.77,0.7109,kxhouserace-pa13-26,32225
+unknown_2027,unknown_2027,politics,mamdani raise corporate taxes before 2027,mamdani pass the 2% millionaire tax before 2027,0.7813,0.64,0.7107,kxnyccorporatetax-27jan01,74106
+house_2026,house_2026,elections,which party will win the house race for ca-11,which party will win the house in 2026,0.671,0.75,0.7105,kxhouserace-ca11-26,32225
+unknown_2026,unknown_2026,elections,win the 2026 toronto mayoral election,2026 busan mayoral election winner,0.7197,0.7,0.7099,kxtorontomayor-26oct26,79988
+house_2026,house_2026,elections,which party will win the house race for ca-48,which party will win the house in 2026,0.6686,0.75,0.7093,kxhouserace-ca48-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-17,which party will win the house in 2026,0.6624,0.75,0.7062,kxhouserace-ca17-26,32225
+house_2026,house_2026,elections,which party will win the house race for fl-13,which party will win the house in 2026,0.6613,0.75,0.7056,housefl13-26,32225
+house_2026,house_2026,elections,which party will win the house race for tx-19,which party will win the house in 2026,0.6587,0.75,0.7043,kxhouserace-tx19-26,32225
+house_2026,house_2026,elections,which party will win the house race for va-11,which party will win the house in 2026,0.6582,0.75,0.7041,kxhouserace-va11-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-47,which party will win the house in 2026,0.6576,0.75,0.7038,houseca47-26,32225
+house_2026,house_2026,elections,which party will win the house race for fl-17,which party will win the house in 2026,0.6571,0.75,0.7035,kxhouserace-fl17-26,32225
+house_2026,house_2026,elections,which party will win the house race for ca-31,which party will win the house in 2026,0.6524,0.75,0.7012,kxhouserace-ca31-26,32225
+house_2026,house_2026,elections,which party will win the house race for tx-18,which party will win the house in 2026,0.6514,0.75,0.7007,kxhouserace-tx18-26,32225
+unknown_2026,unknown_2026,elections,win the 2026 ottawa mayoral election,2026 busan mayoral election winner,0.6798,0.71,0.6949,kxottawamayor-26oct26,79988
+trump_2026,trump_2026,politics,trump pardon in 2026,trump pardon ghislaine maxwell by end of 2026,0.7575,0.62,0.6888,kxtrumppardon-27jan01,33705
+unknown_2026,unknown_2026,elections,win the 2026 vancouver mayoral election,2026 busan mayoral election winner,0.6921,0.68,0.686,kxvancouvermayor-26oct17,79988
+gdp_2026,gdp_2026,economics,us nominal gdp in 2026,gdp growth in 2026,0.7716,0.6,0.6858,kxgdpnom-us26,79137
+unknown_2026,unknown_2026,science and technology,win the fields medal in 2026,ai wins imo gold medal in 2026,0.6515,0.72,0.6857,kxfields-26,79070
+unknown_2026,unknown_2026,climate and weather,2026 be the hottest year ever,where will 2026 rank among the hottest years on record,0.8402,0.53,0.6851,kxgtemp-27,79905
+unknown_2026,unknown_2026,climate and weather,2026 be the hottest year ever,where will 2026 rank among the hottest years on record,0.8402,0.53,0.6851,kxgtemp-26,79905
+unknown_2027,unknown_2027,economics,nyse marketwide circuitbreaker happen this year,nyse marketwide circuit breaker before 2027,0.7816,0.56,0.6708,kxnysecircuit-27,75598
+unknown_9999,unknown_9999,science and technology,when will xai release grok 5,grok 5 released by,0.7228,0.61,0.6664,kxgrok-grok5,36309
+senate_2026,senate_2026,elections,how many senate democrats will lose their primary in 2026,which party will win the senate in 2026,0.7294,0.6,0.6647,kxloseprimarysenated-26nov03,32224
+trump_2027,trump_2027,politics,how much government spending will trump cut before 2027,trump reduce the deficit before 2027,0.7299,0.59,0.66,kxgovtcuts-26,73210
+senate_2026,senate_2026,elections,how many senate republicans will lose their primary in 2026,which party will win the senate in 2026,0.7202,0.59,0.6551,kxloseprimarysenater-26nov03,32224
+house_2026,house_2026,elections,how many house democrats will lose their primary in 2026,which party will win the house in 2026,0.7067,0.6,0.6534,kxloseprimaryhoused-26nov03,32225
+gdp_2026,gdp_2026,economics,uk nominal gdp in 2026,gdp growth in 2026,0.6889,0.6,0.6444,kxgdpnom-uk26,79137
+house_2026,house_2026,elections,how many house republicans will lose their primary in 2026,which party will win the house in 2026,0.7015,0.58,0.6408,kxloseprimaryhouser-26nov03,32225
+unknown_9999,unknown_9999,entertainment,play m in the next james bond film,next james bond actor,0.7294,0.55,0.6397,kxperformrole007-m,35747
+recession_2026,recession_2026,economics,recession this year,us recession by end of 2026,0.7927,0.48,0.6363,kxrecssnber-26,48802
+unknown_2026,unknown_2026,entertainment,eurovision winner 2026,2026 fifa world cup winner,0.6884,0.58,0.6342,kxeurovision-26,30615
+unknown_9999,unknown_9999,entertainment,play q in the next james bond,next james bond actor,0.6586,0.6,0.6293,kxperformrole007-q,35747
+trump_2026,trump_2026,politics,what countries will trump visit in 2026,trump meet with in 2026,0.7068,0.55,0.6284,kxtrumpcountries-27jan01,73871
+donald_trump_2026,donald_trump_2026,politics,donald trump meet in 2026,which countries will donald trump visit in 2026,0.6852,0.56,0.6226,kxtrumpmeeting-27jan01,73079
+unknown_2027,unknown_2027,crypto,launch a token this year,openai launch a token before 2027,0.6793,0.56,0.6197,kxtokenlaunch-27jan01,79076
+house_2026,house_2026,politics,how many people will serve as speaker of the house in 2026,which party will win the house in 2026,0.6951,0.54,0.6175,kxhowmanyspeakerhouse-27jan,32225
+fed_2027,fed_2027,economics,fed decision in dec 2027,fed abolished before 2027,0.6919,0.53,0.6109,kxfeddecision-27dec,73153
+unknown_9999,unknown_9999,entertainment,play moneypenny in the next james bond,next james bond actor,0.6812,0.51,0.5956,kxperformrole007-moneypenny,35747
+fed_2027,fed_2027,economics,fed decision in jan 2027,fed abolished before 2027,0.6965,0.49,0.5932,kxfeddecision-27jan,73153
+fed_2027,fed_2027,economics,fed decision in mar 2027,fed abolished before 2027,0.6869,0.49,0.5884,kxfeddecision-27mar,73153
+trump_2026,trump_2026,politics,leave the trump administration in 2026,trump be impeached by end of 2026,0.6666,0.51,0.5883,kxtrumpadminleave-26dec31,34348
+unknown_2026,unknown_2026,entertainment,2026 game of the year,2026 fifa world cup winner,0.7036,0.47,0.5868,kxgameawards-2026,30615
+unknown_9999,unknown_9999,economics,when will openai officially announce an ipo,openai ipo by,0.778,0.39,0.584,kxipoopenai,68543
+unknown_2026,unknown_2026,science and technology,best ai at the end of 2026,ai wins imo gold medal in 2026,0.6981,0.46,0.579,kxllm1-26dec31,79070
+unknown_2027,unknown_2027,politics,mamdani raise property taxes,mamdani pass the 2% millionaire tax before 2027,0.6673,0.49,0.5787,kxnycpropertytax-27jan01,74106
+fed_2027,fed_2027,economics,fed decision in oct 2027,fed abolished before 2027,0.6651,0.49,0.5775,kxfeddecision-27oct,73153
+senate_2026,senate_2026,elections,closest senate race in 2026,which party will win the senate in 2026,0.6747,0.48,0.5774,kxclosestsenate-27jan03,32224
+unknown_9999,unknown_9999,entertainment,play felix leiter in the next james bond,next james bond actor,0.6624,0.49,0.5762,kxperformrole007-felix,35747
+house_2026,house_2026,politics,2026 2026 midterms: house popular vote margin of victory (generic ballot),which party will win the house in 2026,0.7395,0.41,0.5748,kxhousepopvotemargin-27nov03,32225
+fed_2027,fed_2027,economics,fed decision in jul 2027,fed abolished before 2027,0.6581,0.49,0.5741,kxfeddecision-27jul,73153
+house_2026,house_2026,elections,2026 2026 midterms: u.s. house turnout,which party will win the house in 2026,0.6853,0.46,0.5726,kxhouseturnout-26nov03,32225
+fed_2027,fed_2027,economics,fed decision in jun 2027,fed abolished before 2027,0.653,0.49,0.5715,kxfeddecision-27jun,73153
+new_2026,new_2026,entertainment,2026 grammy nominations for best new artist,which artists will release a new song in 2026,0.662,0.48,0.571,kxgrammynomnaoty-69,79103
+fed_2027,fed_2027,economics,fed decision in sep 2027,fed abolished before 2027,0.651,0.49,0.5705,kxfeddecision-27sep,73153
+fed_rate_2026,fed_rate_2026,economics,fed do a rate cut greater than 25bps this year,how many fed rate cuts in 2026,0.6835,0.45,0.5667,kxlargecut-26,51456
+unknown_2027,unknown_2027,science and technology,which companies will have a top-ranked ai model this year,dllm be the top ai model before 2027,0.6882,0.43,0.5591,kxtopai-27,80144
+senate_2026,senate_2026,elections,2026 democratic senate primaries combo,which party will win the senate in 2026,0.6597,0.44,0.5498,kxdemsenateprimarycombo-26nov03,32224
+senate_2026,senate_2026,elections,2026 republican senate primaries combo,which party will win the senate in 2026,0.6727,0.42,0.5463,kxgopsenateprimarycombo-26nov03,32224
