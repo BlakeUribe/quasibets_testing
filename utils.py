@@ -2,34 +2,34 @@ import pandas as pd
 import re
 
 def clean_text_cols(df: pd.DataFrame, exclude_cols: list = None) -> pd.DataFrame:
-    """
-    Standardizes text and expands alphanumeric identifiers (like tx-18) 
-    so the anchor-based matching system can 'see' the individual tokens.
-    """
     if exclude_cols is None:
-            exclude_cols = ['event_id', 'series_id', 'match_key']
+        exclude_cols = ['event_id', 'series_id', 'match_key']
 
-    # Get all object columns EXCEPT the ones in our exclude list
     all_string_cols = df.select_dtypes(include=['object']).columns
     target_cols = [c for c in all_string_cols if c not in exclude_cols]
     
-    # Updated mapping to handle "tx-18" style splits
     symbol_map = {
-        # 1. Alphanumeric Splitter (The Fix for 'tx-18')
-        # This inserts a space between letters and numbers connected by hyphens/underscores
+        # 1. Month Expansion (The Fix for 'mar' -> 'march')
+        r'\bjan\b': 'january',
+        r'\bfeb\b': 'february',
+        r'\bmar\b': 'march',
+        r'\bapr\b': 'april',
+        # 'may' is already a word, usually left alone
+        r'\bjun\b': 'june',
+        r'\bjul\b': 'july',
+        r'\baug\b': 'august',
+        r'\bsep\b': 'september',
+        r'\boct\b': 'october',
+        r'\bnov\b': 'november',
+        r'\bdec\b': 'december',
+
+        # 2. Alphanumeric Splitter (tx-18)
         r'([a-z])[-_]([0-9])': r'\1 \2', 
         r'([0-9])[-_]([a-z])': r'\1 \2',
         
-        # 2. Currency & Crypto
+        # 3. Currency & Crypto
         r'\$': 'usd ',
-        r'€': 'eur ',
-        r'£': 'gbp ',
         r'₿': 'btc ',
-        r'Ξ': 'eth ',
-        
-        # 3. Noise artifacts
-        r'_{2,}': '',      
-        r'\.{2,}': '',     
         
         # 4. Prediction Market Question Stripping
         r'^will a\s+': '',
@@ -38,12 +38,13 @@ def clean_text_cols(df: pd.DataFrame, exclude_cols: list = None) -> pd.DataFrame
         r'^who will\s+': '',
         r'\?': '',         
         
-        # 5. Final Cleanup: Collapses multiple spaces and non-alphanumeric noise
-        r'[^a-z0-9\s]': ' ', # Replaces remaining punctuation with space
+        # 5. Final Cleanup
+        r'[^a-z0-9\s]': ' ', 
         r'\s{2,}': ' '     
     }
 
     for col in target_cols:
+        # Pre-process: lowercase and strip before regex loop
         series = df[col].astype(str).str.lower().str.strip()
         
         for pattern, replacement in symbol_map.items():
@@ -55,16 +56,17 @@ def clean_text_cols(df: pd.DataFrame, exclude_cols: list = None) -> pd.DataFrame
 
 def clean_datetime_cols(df: pd.DataFrame, date_cols: list = None) -> pd.DataFrame:
     """
-    Converts specified columns to datetime and formats them to YYYY-MM-DD.
-    If no columns are provided, it skips.
+    Converts specified columns to datetime, handling UTC/ISO formats,
+    and formats them to YYYY-MM-DD strings.
     """
     if date_cols is None:
         return df
 
     for col in date_cols:
         if col in df.columns:
-            # errors='coerce' turns unparseable dates into NaT instead of crashing
-            df[col] = pd.to_datetime(df[col], errors='coerce').dt.strftime('%Y-%m-%d')
+            temp_dt = pd.to_datetime(df[col], utc=True, errors='coerce')
+            df[col] = temp_dt.dt.strftime('%Y-%m-%d')
+            df.loc[df[col] == 'NaT', col] = None
             
     return df
 

@@ -74,8 +74,8 @@ robert mueller,person
 abu bakr al-baghdadi,person
 joko widodo,person
 gianni infantino,person
-walmart,company
 amazon,company
+walmart,company
 state grid corporation china,company
 saudi aramco,company
 china national petroleum corporation,company
@@ -737,7 +737,6 @@ gombojavyn zandanshatar,person
 milojko spajić,person
 aziz akhannouch,person
 nyo saw,person
-sushila karki,person
 balendra shah,person
 rob jetten,person
 christopher luxon,person
@@ -1218,6 +1217,7 @@ denis yarats,person
 johnny ho,person
 andy konwinski,person
 hamdi ulukaya,person
+jonathan ross,person
 andrey khusid,person
 thomas jonas,person
 mark kozubal,person
@@ -1420,7 +1420,6 @@ hannu valtonen,person
 heikki nousiainen,person
 oskari saarenmaa,person
 ashneer grover,person
-jonathan ross,person
 samir bodas,person
 monish darda.,person
 shiv rao,person
@@ -1645,6 +1644,7 @@ chime,company
 cerebras,company
 perplexity ai,company
 chobani,company
+groq,company
 miro,company
 nature's fynd,company
 trendyol,company
@@ -1873,7 +1873,6 @@ workrise,company
 drivewealth,company
 bharatpe,company
 graphcore,company
-groq,company
 icertis,company
 oaknorth,company
 unionpay,company
@@ -2349,3 +2348,157 @@ grok,misc
 eurovision,misc
 millionaire,misc
 billionaire,misc
+trillionaire,misc
+temperature,weather
+hurricane,weather
+storm,weather
+tornado,weather
+temp,weather
+degrees,weather
+heat,weather
+warmest,weather
+hottest,weather
+coldest,weather
+rain,weather
+rainfall,weather
+snow,weather
+snowfall,weather
+blizzard,weather
+precipitation,weather
+wind,weather
+gusts,weather
+humidity,weather
+pressure,weather
+cyclone,weather
+typhoon,weather
+flood,weather
+drought,weather
+bangkok,geography
+london,geography
+macau,geography
+paris,geography
+dubai,geography
+kuala lumpur,geography
+istanbul,geography
+delhi,geography
+antalya,geography
+shenzhen,geography
+mumbai,geography
+phuket,geography
+rome,geography
+tokyo,geography
+pattaya,geography
+taipei,geography
+mecca,geography
+guangzhou,geography
+prague,geography
+medina,geography
+seoul,geography
+amsterdam,geography
+agra,geography
+miami,geography
+osaka,geography
+shanghai,geography
+ho chi minh city,geography
+denpasar,geography
+barcelona,geography
+milan,geography
+chennai,geography
+vienna,geography
+johor bahru,geography
+jaipur,geography
+cancún,geography
+berlin,geography
+cairo,geography
+athens,geography
+orlando,geography
+moscow,geography
+venice,geography
+madrid,geography
+ha long,geography
+riyadh,geography
+dublin,geography
+florence,geography
+hanoi,geography
+toronto,geography
+johannesburg,geography
+sydney,geography
+munich,geography
+jakarta,geography
+beijing,geography
+saint petersburg,geography
+brussels,geography
+jerusalem,geography
+budapest,geography
+lisbon,geography
+dammam,geography
+penang island,geography
+heraklion,geography
+kyoto,geography
+zhuhai,geography
+vancouver,geography
+chiang mai,geography
+copenhagen,geography
+san francisco,geography
+melbourne,geography
+krakow,geography
+marrakesh,geography
+kolkata,geography
+cebu city,geography
+auckland,geography
+tel aviv,geography
+guilin,geography
+hurghada,geography
+warsaw,geography
+muğla,geography
+buenos aires,geography
+chiba,geography
+frankfurt,geography
+stockholm,geography
+lima,geography
+da nang,geography
+batam,geography
+nice,geography
+fukuoka,geography
+abu dhabi,geography
+jeju,geography
+porto,geography
+rhodes,geography
+rio de janeiro,geography
+krabi,geography
+bangalore,geography
+mexico city,geography
+punta cana,geography
+são paulo,geography
+zürich,geography
+montreal,geography
+washington d.c.,geography
+düsseldorf,geography
+chengdu,geography
+edinburgh,geography
+san jose,geography
+tehran,geography
+hamburg,geography
+cape town,geography
+manila,geography
+bogota,geography
+xi'an,geography
+beirut,geography
+geneva,geography
+colombo,geography
+xiamen,geography
+bucharest,geography
+casablanca,geography
+sofia,geography
+dalian,geography
+montevideo,geography
+amman,geography
+hangzhou,geography
+pune,geography
+durban,geography
+dallas/fort worth,geography
+accra,geography
+quito,geography
+tianjin,geography
+qingdao,geography
+lagos,geography
