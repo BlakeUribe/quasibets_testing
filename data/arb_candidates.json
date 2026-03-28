@@ -1,0 +1,93 @@
+[
+    {
+        "platform_ids":{
+            "kalshi":"KXKHLGAME-26MAR311000SALAVT",
+            "poly":"307120"
+        },
+        "kalshi_title":"salavat yulaev ufa vs avtomobilist yekaterinburg",
+        "poly_match":"khl salavat yulaev ufa vs avtomobilist yekaterinburg",
+        "total_score":0.949,
+        "keys":{
+            "kalshi":"unknown_2026",
+            "poly":"unknown_9999"
+        }
+    },
+    {
+        "platform_ids":{
+            "kalshi":"KXKHLGAME-26MAR311230SKACSK",
+            "poly":"307123"
+        },
+        "kalshi_title":"ska st petersburg vs cska moscow",
+        "poly_match":"khl ska st petersburg vs cska moscow",
+        "total_score":0.9454,
+        "keys":{
+            "kalshi":"moscow_petersburg_2026",
+            "poly":"moscow_petersburg_9999"
+        }
+    },
+    {
+        "platform_ids":{
+            "kalshi":"KXATPCHALLENGERMATCH-26MAR29CARLLA",
+            "poly":"318281"
+        },
+        "kalshi_title":"carreno busta vs llamas ruiz",
+        "poly_match":"alicante pablo carreno busta vs pablo llamas ruiz",
+        "total_score":0.8266,
+        "keys":{
+            "kalshi":"unknown_2026",
+            "poly":"unknown_9999"
+        }
+    },
+    {
+        "platform_ids":{
+            "kalshi":"KXMLBHR-26MAR281610BOSCIN",
+            "poly":"305272"
+        },
+        "kalshi_title":"boston vs cincinnati home runs",
+        "poly_match":"boston red sox vs cincinnati reds",
+        "total_score":0.8065,
+        "keys":{
+            "kalshi":"boston_home_2026",
+            "poly":"boston_9999"
+        }
+    },
+    {
+        "platform_ids":{
+            "kalshi":"KXLOLMAP-26MAR29TTWE-1",
+            "poly":"318003"
+        },
+        "kalshi_title":"esports world cup china qualifier 2026 thundertalk gaming vs team we map 1",
+        "poly_match":"lol team we vs thundertalk gaming bo3 esports world cup china qualifier phase 1",
+        "total_score":0.8423,
+        "keys":{
+            "kalshi":"china_2026",
+            "poly":"china_9999"
+        }
+    },
+    {
+        "platform_ids":{
+            "kalshi":"KXLOLMAP-26MAR29TTWE-2",
+            "poly":"318003"
+        },
+        "kalshi_title":"esports world cup china qualifier 2026 thundertalk gaming vs team we map 2",
+        "poly_match":"lol team we vs thundertalk gaming bo3 esports world cup china qualifier phase 1",
+        "total_score":0.8243,
+        "keys":{
+            "kalshi":"china_2026",
+            "poly":"china_9999"
+        }
+    },
+    {
+        "platform_ids":{
+            "kalshi":"KXMLBHR-26MAR281610BOSCIN",
+            "poly":"305286"
+        },
+        "kalshi_title":"boston vs cincinnati home runs",
+        "poly_match":"boston red sox vs cincinnati reds",
+        "total_score":0.8065,
+        "keys":{
+            "kalshi":"boston_cincinnati_home_2026",
+            "poly":"boston_cincinnati_9999"
+        }
+    }
+]

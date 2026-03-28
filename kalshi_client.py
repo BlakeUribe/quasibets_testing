@@ -61,6 +61,10 @@ class KalshiClient:
 
         if not missing_tickers:
             return event_df
+        
+        if len(missing_tickers) > 500:
+            missing_tickers = missing_tickers[:500]
+            print(f"Adjusting missing events to 500 to avoid excessive API calls.")
 
         print(f"Backfilling {len(missing_tickers)} missing events from Kalshi...")
         backfilled = []

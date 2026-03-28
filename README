@@ -1,7 +1,31 @@
 # Prediction Market Arbitrage Application
 
-This project is in the early stages of development and is focused on building a system to detect arbitrage opportunities across prediction market platforms.
+This project focuses on building an arbitrage platform for prediction markets. It is currently in the early stages, with an emphasis on identifying the most effective ways to collect, process, and analyze market data.
 
-At the current stage, the project is primarily exploratory. The goal is to collect market data, analyze pricing across platforms, and demonstrate that arbitrage or quasi arbitrage opportunities can exist within prediction markets.
+## Workflow Overview
 
-The tools in this repository are used to test data pipelines, compare market prices, and identify the conditions under which arbitrage opportunities appear. This work helps establish the foundation for a more complete arbitrage detection system in later development stages.
+1. **Data Ingestion**
+    - Collect data from platforms such as Kalshi and Polymarket  
+    - Standardize the data into a consistent format  
+
+2. **Text Processing & Event Matching**
+    - Process market titles and descriptions  
+    - Match event IDs across platforms using text similarity and keyword extraction  
+
+3. **Arbitrage Detection**
+    - Compare pricing across matched events  
+    - Identify potential arbitrage opportunities  
+
+## Event Matching Approach
+
+A key challenge is identifying equivalent events across different platforms. This is addressed through a text processing pipeline based on the observation that most prediction market events follow a common structure:
+
+- What will happen  
+- When it will happen  
+- Sometimes where it will happen  
+
+For example, a market titled *“Will Democrats win the 2026 midterms?”* contains distinct keywords such as *Democrats* and *2026*. Many events include similarly identifiable terms, which enables the construction of a keyword-based matching system to detect overlapping or identical events across platforms.
+
+## Arbitrage Identification
+
+Once equivalent events are successfully matched, the next step is to analyze their respective market prices. Differences in pricing across platforms can reveal arbitrage opportunities, which can then be evaluated and potentially executed.

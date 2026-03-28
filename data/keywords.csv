@@ -382,9 +382,9 @@ xdg,crypto
 grc,crypto
 xpm,crypto
 xrp,crypto
-nxt,crypto
+,crypto
 aur,crypto
-dash,crypto
+,crypto
 mzc,crypto
 xmr,crypto
 tit,crypto
@@ -395,7 +395,7 @@ eth,crypto
 etc,crypto
 xno,crypto
 usdt,crypto
-firo,crypto
+,crypto
 zec,crypto
 bch,crypto
 eos,crypto
@@ -407,8 +407,8 @@ avax,crypto
 shib,crypto
 dot,crypto
 sol,crypto
-deso,crypto
-safemoon,crypto
+,crypto
+,crypto
 arkm,crypto
 january,month
 february,month
@@ -474,7 +474,7 @@ jigme khesar namgyel wangchuck,person
 rodrigo paz,person
 christian schmidt,person
 presidency,person
-members: denis bećirović (chairman) željka cvijanović željko komšić,person
+members: denis bećirović chairman željka cvijanović željko komšić,person
 duma boko,person
 luiz inácio lula da silva,person
 hassanal bolkiah,person
@@ -623,7 +623,7 @@ salva kiir mayardit,person
 felipe,person
 anura kumara dissanayake,person
 transitional sovereignty council,person
-burhan (chairman),person
+burhan chairman,person
 din kabbashiyasser al-attaibrahim jabir karimel tahrir abubakr hajarraja nicolaaboulgasim mohamed burtumyousef jad karimabdelbagi al-zubeirsalma abdeljabbar,person
 jennifer geerlings-simons,person
 carl xvi gustaf,person
@@ -945,7 +945,7 @@ ukraine,geography
 uruguay,geography
 uzbekistan,geography
 vanuatu,geography
-vatican city (holy see),geography
+vatican city holy see,geography
 venezuela,geography
 vietnam,geography
 yemen,geography
@@ -1229,7 +1229,7 @@ demet mutlu,person
 yong li,person
 jason citron,person
 stanislav vishnevsky,person
-frank wang (wang tao),person
+frank wang wang tao,person
 yakir gola,person
 rafael ilishayev,person
 arthur mensch,person
@@ -1265,7 +1265,7 @@ peter carlsson,person
 paolo cerrutim,person
 harald mix,person
 carl-erik lagercrantz,person
-grant lafontaine (ceo),person
+grant lafontaine ceo,person
 logan head,person
 parker conrad,person
 howie liu,person
@@ -1732,7 +1732,7 @@ cred,company
 datarobot,company
 personio,company
 doctolib,company
-lianjia (homelink),company
+lianjia homelink,company
 icapital,company
 xingsheng youxuan,company
 sandboxaq,company
@@ -1746,7 +1746,7 @@ pharmeasy,company
 postman,company
 swiggy,company
 phonepe,company
-viva republica (toss),company
+viva republica toss,company
 helion energy,company
 pony.ai,company
 trade republic,company
@@ -2107,7 +2107,7 @@ insider,company
 mamaearth,company
 merama,company
 jokr,company
-ada,company
+,company
 alation,company
 apotea,company
 axonius,company
@@ -2232,7 +2232,7 @@ letsgetchecked,company
 licious,company
 lydia,company
 lilium gmbh,company
-linksure network (wifi master key),company
+linksure network wifi master key,company
 liquid group,company
 lmax group,company
 locus robotics,company
@@ -2261,7 +2261,7 @@ nobroker,company
 numbrs,company
 kredivo,company
 ocsial,company
-opn (synqa),company
+opn synqa,company
 orcam,company
 pandadoc,company
 pantheon systems,company
@@ -2349,6 +2349,15 @@ eurovision,misc
 millionaire,misc
 billionaire,misc
 trillionaire,misc
+home,misc
+north,misc
+south,misc
+east,misc
+west,misc
+one,misc
+two,misc
+three,misc
+yes,misc
 temperature,weather
 hurricane,weather
 storm,weather
@@ -2502,3 +2511,370 @@ quito,geography
 tianjin,geography
 qingdao,geography
 lagos,geography
+,geography
+,geography
+san antonio,geography
+san diego,geography
+dallas,geography
+,geography
+fort worth,geography
+,geography
+,geography
+,geography
+,geography
+,geography
+el paso,geography
+,geography
+memphis,geography
+,geography
+tucson,geography
+fresno,geography
+mesa,geography
+colorado springs,geography
+,geography
+long beach,geography
+oakland,geography
+bakersfield,geography
+tulsa,geography
+tampa,geography
+arlington,geography
+aurora,geography
+cleveland,geography
+,geography
+henderson,geography
+,geography
+anaheim,geography
+lexington,geography
+stockton,geography
+riverside,geography
+irvine,geography
+corpus christi,geography
+santa ana,geography
+cincinnati,geography
+pittsburgh,geography
+greensboro,geography
+jersey city,geography
+durham,geography
+north las vegas,geography
+plano,geography
+,geography
+gilbert,geography
+reno,geography
+chandler,geography
+st. louis,geography
+chula vista,geography
+buffalo,geography
+fort wayne,geography
+lubbock,geography
+st. petersburg,geography
+toledo,geography
+laredo,geography
+port st. lucie,geography
+glendale,geography
+irving,geography
+winston-salem,geography
+chesapeake,geography
+garland,geography
+scottsdale,geography
+,geography
+hialeah,geography
+frisco,geography
+,geography
+cape coral,geography
+norfolk,geography
+spokane,geography
+santa clarita,geography
+tacoma,geography
+fremont,geography
+mckinney,geography
+san bernardino,geography
+,geography
+modesto,geography
+fontana,geography
+moreno valley,geography
+worcester,geography
+yonkers,geography
+fayetteville,geography
+grand prairie,geography
+rochester,geography
+amarillo,geography
+overland park,geography
+,geography
+,geography
+mobile,geography
+oxnard,geography
+grand rapids,geography
+peoria,geography
+knoxville,geography
+birmingham,geography
+huntington beach,geography
+brownsville,geography
+chattanooga,geography
+fort lauderdale,geography
+tempe,geography
+akron,geography
+clarksville,geography
+ontario,geography
+newport news,geography
+elk grove,geography
+cary,geography
+pembroke pines,geography
+eugene,geography
+santa rosa,geography
+rancho cucamonga,geography
+shreveport,geography
+garden grove,geography
+oceanside,geography
+fort collins,geography
+murfreesboro,geography
+surprise,geography
+lancaster,geography
+denton,geography
+roseville,geography
+palmdale,geography
+corona,geography
+salinas,geography
+killeen,geography
+paterson,geography
+alexandria,geography
+hollywood,geography
+hayward,geography
+macon,geography
+lakewood,geography
+sunnyvale,geography
+,geography
+bellevue,geography
+naperville,geography
+joliet,geography
+mesquite,geography
+pasadena,geography
+olathe,geography
+escondido,geography
+savannah,geography
+mcallen,geography
+gainesville,geography
+pomona,geography
+rockford,geography
+thornton,geography
+waco,geography
+visalia,geography
+syracuse,geography
+midland,geography
+miramar,geography
+palm bay,geography
+,geography
+coral springs,geography
+victorville,geography
+elizabeth,geography
+fullerton,geography
+meridian,geography
+torrance,geography
+stamford,geography
+west valley city,geography
+orange,geography
+cedar rapids,geography
+warren,geography
+hampton,geography
+new,geography
+kent,geography
+dayton,geography
+lewisville,geography
+carrollton,geography
+round rock,geography
+sterling heights,geography
+santa clara,geography
+norman,geography
+abilene,geography
+pearland,geography
+,geography
+college station,geography
+clovis,geography
+west palm beach,geography
+allentown,geography
+north charleston,geography
+simi valley,geography
+lakeland,geography
+thousand oaks,geography
+vallejo,geography
+ann arbor,geography
+broken arrow,geography
+fairfield,geography
+lafayette,geography
+arvada,geography
+berkeley,geography
+independence,geography
+cambridge,geography
+lowell,geography
+odessa,geography
+high point,geography
+league city,geography
+antioch,geography
+richardson,geography
+goodyear,geography
+pompano beach,geography
+nampa,geography
+menifee,geography
+las cruces,geography
+clearwater,geography
+west jordan,geography
+new braunfels,geography
+miami gardens,geography
+waterbury,geography
+provo,geography
+evansville,geography
+westminster,geography
+elgin,geography
+conroe,geography
+greeley,geography
+buckeye,geography
+tuscaloosa,geography
+allen,geography
+carlsbad,geography
+everett,geography
+beaumont,geography
+murrieta,geography
+rio rancho,geography
+temecula,geography
+tyler,geography
+davie,geography
+south fulton,geography
+sparks,geography
+gresham,geography
+santa maria,geography
+pueblo,geography
+hillsboro,geography
+edison,geography
+sugar land,geography
+ventura,geography
+downey,geography
+costa mesa,geography
+centennial,geography
+edinburg,geography
+spokane valley,geography
+jurupa valley,geography
+bend,geography
+west covina,geography
+boulder,geography
+palm coast,geography
+lee's summit,geography
+dearborn,geography
+green bay,geography
+st. george,geography
+woodbridge,geography
+brockton,geography
+renton,geography
+sandy springs,geography
+rialto,geography
+el monte,geography
+vacaville,geography
+fishers,geography
+south bend,geography
+carmel,geography
+yuma,geography
+burbank,geography
+lynn,geography
+quincy,geography
+el cajon,geography
+suffolk,geography
+san mateo,geography
+chico,geography
+inglewood,geography
+wichita falls,geography
+boca raton,geography
+hesperia,geography
+daly city,geography
+clinton,geography
+georgetown,geography
+new bedford,geography
+davenport,geography
+plantation,geography
+deltona,geography
+federal way,geography
+san angelo,geography
+tracy,geography
+sunrise,geography
+stanford university,college
+"university california, los angeles",college
+university southern california,college
+university texas austin,college
+pennsylvania state university,college
+oklahoma state university,college
+university north carolina,college
+university arkansas,college
+louisiana state university,college
+university florida,college
+"university california, berkeley",college
+university michigan,college
+university oklahoma,college
+university virginia,college
+university oregon,college
+university denver,college
+university wisconsin,college
+ohio state university,college
+university maryland,college
+university georgia,college
+yale university,college
+university colorado,college
+university utah,college
+university iowa,college
+arizona state university,college
+university connecticut uconn,college
+indiana university,college
+princeton university,college
+university notre dame,college
+west virginia university,college
+villanova university,college
+university nebraska,college
+university texas el paso,college
+michigan state university,college
+university arizona,college
+university minnesota,college
+university illinois,college
+university houston,college
+duke university,college
+university tennessee,college
+cardinal,college
+bruins,college
+trojans,college
+longhorns,college
+nittany lions,college
+cowboys,college
+tar heels,college
+razorbacks,college
+tigers,college
+gators,college
+golden bears,college
+wolverines,college
+sooners,college
+cavaliers,college
+ducks,college
+pioneers,college
+badgers,college
+buckeyes,college
+terrapins,college
+bulldogs,college
+buffaloes,college
+utes,college
+hawkeyes,college
+sun devils,college
+huskies,college
+hoosiers,college
+fighting irish,college
+mountaineers,college
+wildcats,college
+cornhuskers,college
+miners,college
+spartans,college
+golden gophers,college
+fighting illini,college
+cougars,college
+blue devils,college
+volunteers,college
+atlantic coast conference,college
+big ten conference,college
+southeastern conference,college
+big 12 conference,college
+summit league west coast conference 2026,college
+ivy league,college
+big east conference,college
+conference usa mountain west conference 2026,college

@@ -71,5 +71,56 @@ def clean_datetime_cols(df: pd.DataFrame, date_cols: list = None) -> pd.DataFram
     return df
 
 
+keyword_df = pd.read_csv('data/keywords.csv')
+
+def create_match_keys(df, text_cols, keyword_df=keyword_df):
+    """
+    Pass a DataFrame and a list of columns. 
+    Returns the DataFrame with a new 'match_key' column.
+    """
+    # 1. Prepare Anchor Set (Do this once per call)
+    flattened_anchors = set()
+    for kw in keyword_df['keyword'].dropna().unique():
+        flattened_anchors.update(str(kw).lower().split())
+
+    # 2. Combine all requested text columns into one temporary search string
+    # We join with a space to prevent words from sticking together
+    combined_text = df[text_cols[0]].fillna('').astype(str).str.lower()
+    for col in text_cols[1:]:
+        combined_text = combined_text + " " + df[col].fillna('').astype(str).str.lower()
+
+    # 3. Internal helper for the row-level logic
+    def _process_row(text, event_id):
+        # Extract Year
+        year_match = re.search(r'20\d{2}', text)
+        if year_match:
+            year = year_match.group(0)
+        else:
+            # Check event_id for YY format (e.g., -26)
+            id_year = re.search(r'-(\d{2})', str(event_id))
+            year = f"20{id_year.group(1)}" if id_year else "9999"
+
+        # Clean and Tokenize
+        clean_text = re.sub(r'[^a-z0-9\s]', '', text)
+        tokens = set(clean_text.split())
+        
+        # Match against anchors
+        found_elements = sorted(list(tokens & flattened_anchors))
+        
+        if not found_elements:
+            return f"unknown_{year}"
+        
+        return f"{'_'.join(found_elements)}_{year}"
+
+    # 4. Apply the logic
+    # We zip the combined text and event_id for speed
+    df['match_key'] = [
+        _process_row(txt, eid) 
+        for txt, eid in zip(combined_text, df['event_id'])
+    ]
+    
+    return df
+
+
 if __name__ == '__main__':
     print('---Functions Loaded---')

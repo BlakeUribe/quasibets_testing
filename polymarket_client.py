@@ -15,7 +15,8 @@ class PolymarketClient:
         """Fetches raw event data from the Gamma API with pagination."""
         all_events = []
         offset = 0
-
+        
+        print(f"Fetching Polymarket events...")
         while len(all_events) < self.target_count:
             params = {
                 "active": "true",
@@ -26,7 +27,6 @@ class PolymarketClient:
                 "ascending": "false"
             }
             
-            print(f"Fetching Polymarket events {offset} to {offset + self.limit_per_page}...")
             try:
                 response = requests.get(self.base_url, params=params)
                 response.raise_for_status()
@@ -68,6 +68,7 @@ class PolymarketClient:
         poly_events = pd.merge(poly_events, grouped_tags, on='event_id', how='left')
 
         # 2. Process Markets
+        print(f"Processing Polymarket markets...")
         markets_exploded = self.raw_data[['id', 'markets']].explode('markets').dropna()
         markets_df = pd.json_normalize(markets_exploded['markets'])
         
