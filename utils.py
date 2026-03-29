@@ -2,6 +2,9 @@ import pandas as pd
 import re
 
 def clean_text_cols(df: pd.DataFrame, exclude_cols: list = None) -> pd.DataFrame:
+    """
+    exclude_cols: cols that are str, or obj, but should be left alone (e.g., any id, event_id, series_id, match_key)
+    """
     if exclude_cols is None:
         exclude_cols = ['event_id', 'series_id', 'match_key']
 
