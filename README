@@ -10,7 +10,7 @@ This project focuses on building an arbitrage platform for prediction markets. I
 
 2. **Text Processing & Event Matching**
     - Process event titles and descriptions  
-    - Event matches are stored, and then find markets in those events that match (currently here)
+    - Event matches are stored, and then find markets in those events that match
 
 3. **Arbitrage Detection**
     - Compare pricing across matched markets  
