@@ -2,58 +2,42 @@ import pandas as pd
 import re
 
 def clean_text_cols(df: pd.DataFrame, exclude_cols: list = None) -> pd.DataFrame:
-    """
-    exclude_cols: cols that are str, or obj, but should be left alone (e.g., any id, event_id, series_id, match_key)
-    """
+    df = df.copy() # Avoid SettingWithCopyWarning
     if exclude_cols is None:
         exclude_cols = ['event_id', 'series_id', 'match_key']
 
     all_string_cols = df.select_dtypes(include=['object']).columns
     target_cols = [c for c in all_string_cols if c not in exclude_cols]
     
-    symbol_map = {
-        # 1. Month Expansion (The Fix for 'mar' -> 'march')
-        r'\bjan\b': 'january',
-        r'\bfeb\b': 'february',
-        r'\bmar\b': 'march',
-        r'\bapr\b': 'april',
-        # 'may' is already a word, usually left alone
-        r'\bjun\b': 'june',
-        r'\bjul\b': 'july',
-        r'\baug\b': 'august',
-        r'\bsep\b': 'september',
-        r'\boct\b': 'october',
-        r'\bnov\b': 'november',
-        r'\bdec\b': 'december',
-
-        # 2. Alphanumeric Splitter (tx-18)
-        r'([a-z])[-_]([0-9])': r'\1 \2', 
-        r'([0-9])[-_]([a-z])': r'\1 \2',
-        
-        # 3. Currency & Crypto
-        r'\$': 'usd ',
-        r'₿': 'btc ',
-        
-        # 4. Prediction Market Question Stripping
-        r'^will a\s+': '',
-        r'^will the\s+': '',
-        r'^will\s+': '',
-        r'^who will\s+': '',
-        r'\?': '',         
-        
-        # 5. Final Cleanup
-        r'[^a-z0-9\s]': ' ', 
-        r'\s{2,}': ' '     
-    }
-
+    # Order matters: Clean symbols FIRST, then expand months
     for col in target_cols:
-        # Pre-process: lowercase and strip before regex loop
-        series = df[col].astype(str).str.lower().str.strip()
+        s = df[col].astype(str).str.lower().str.strip()
         
-        for pattern, replacement in symbol_map.items():
-            series = series.str.replace(pattern, replacement, regex=True)
+        # 1. Handle Currencies and specific symbols
+        s = s.replace({'\$': 'usd ', '₿': 'btc '}, regex=True)
+        
+        # 2. Split alphanumeric (tx-18 -> tx 18)
+        s = s.str.replace(r'([a-z])[-_]([0-9])', r'\1 \2', regex=True)
+        s = s.str.replace(r'([0-9])[-_]([a-z])', r'\1 \2', regex=True)
+        
+        # 3. Strip "Will/Who" prefixes
+        s = s.str.replace(r'^(will the|will a|will|who will)\s+', '', regex=True)
+        
+        # 4. Remove all non-alphanumeric (Clean punctuation BEFORE month expansion)
+        s = s.str.replace(r'[^a-z0-9\s]', ' ', regex=True)
+        
+        # 5. Month Expansion (Now \b works perfectly because punctuation is gone)
+        months = {
+            r'\bjan\b': 'january', r'\bfeb\b': 'february', r'\bmar\b': 'march',
+            r'\bapr\b': 'april', r'\bjun\b': 'june', r'\bjul\b': 'july', #skip may
+            r'\baug\b': 'august', r'\bsep\b': 'september', r'\boct\b': 'october',
+            r'\bnov\b': 'november', r'\bdec\b': 'december'
+        }
+        for pat, rep in months.items():
+            s = s.str.replace(pat, rep, regex=True)
             
-        df[col] = series.str.strip()
+        # 6. Final whitespace collapse
+        df[col] = s.str.replace(r'\s{2,}', ' ', regex=True).str.strip()
         
     return df
 
@@ -74,9 +58,9 @@ def clean_datetime_cols(df: pd.DataFrame, date_cols: list = None) -> pd.DataFram
     return df
 
 
-keyword_df = pd.read_csv('data/keywords.csv')
+KEYWORD_DF = pd.read_csv('data/keywords.csv')
 
-def create_match_keys(df, text_cols, keyword_df=keyword_df):
+def create_match_keys(df, text_cols, keyword_df=KEYWORD_DF):
     """
     Pass a DataFrame and a list of columns. 
     Returns the DataFrame with a new 'match_key' column.

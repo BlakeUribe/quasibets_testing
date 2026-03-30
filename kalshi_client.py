@@ -1,148 +1,88 @@
 import requests
 import pandas as pd
 import time
-from utils import clean_text_cols, clean_datetime_cols
+import io
+from utils import clean_text_cols
 
-class KalshiClient:
-    def __init__(self, max_event_pages=10, max_market_pages=5):
+class KalshiEventClient:
+    def __init__(self, event_limit=200):
+        """
+        event_limit: Total number of events to fetch across all pages.
+        """
         self.base_url = "https://api.elections.kalshi.com/trade-api/v2"
-        self.max_event_pages = max_event_pages
-        self.max_market_pages = max_market_pages
-        self.raw_events = None
-        self.raw_markets = None
-        self.master_df = None
+        self.event_limit = event_limit
+        self.df_events = None
 
-    def _fetch_paginated(self, endpoint, limit=200, params=None):
-        """Generic paginator for Kalshi API endpoints."""
-        all_data = []
+    def fetch_events(self):
+        """Fetches only open events with pagination control."""
+        all_events = []
         cursor = None
-        url = f"{self.base_url}/{endpoint}"
+        remaining = self.event_limit
         
-        # Determine how many pages to fetch based on endpoint
-        pages = self.max_event_pages if endpoint == 'events' else self.max_market_pages
-        
-        for page in range(pages):
-            current_params = {"limit": limit, "cursor": cursor}
-            if params:
-                current_params.update(params)
+        print(f"Fetching up to {self.event_limit} open events from Kalshi...")
+
+        while remaining > 0:
+            # Kalshi max limit per page is 200
+            fetch_count = min(remaining, 200)
+            params = {
+                "limit": fetch_count, 
+                "status": "open",
+                "cursor": cursor
+            }
             
-            response = requests.get(url, params=current_params)
+            response = requests.get(f"{self.base_url}/events", params=params)
+            
             if response.status_code != 200:
-                print(f"Error {response.status_code} on {endpoint}")
+                print(f"Error {response.status_code}: {response.text}")
                 break
                 
             data = response.json()
-            batch = data.get(endpoint, [])
-            all_data.extend(batch)
+            batch = data.get('events', [])
+            all_events.extend(batch)
             
+            # Update loop controls
+            remaining -= len(batch)
             cursor = data.get('cursor')
-            if not cursor:
-                break
-            time.sleep(0.5)
             
-        return pd.DataFrame(all_data)
+            if not cursor or len(batch) == 0:
+                break
+                
+            time.sleep(0.5) # Respect rate limits
 
-    def fetch_data(self):
-        """Fetches both events and markets."""
-        print("Fetching Kalshi events...")
-        self.raw_events = self._fetch_paginated('events', params={"status": "open"})
-        
-        print("Fetching Kalshi markets...")
-        market_params = {'mve_filter': 'exclude', 'status': 'open'}
-        self.raw_markets = self._fetch_paginated('markets', limit=1000, params=market_params)
-        
-        return self.raw_events, self.raw_markets
+        self.df_events = pd.DataFrame(all_events)
+        return self.df_events
 
-    def _backfill_missing_events(self, market_df, event_df):
-        """Identifies markets without events and fetches them individually."""
-        all_market_tickers = market_df['event_ticker'].unique()
-        known_event_tickers = event_df['event_ticker'].unique() if not event_df.empty else []
-        missing_tickers = [t for t in all_market_tickers if t not in known_event_tickers]
+    def transform_events(self):
+        """Standardizes columns and cleans text for matching."""
+        if self.df_events is None or self.df_events.empty:
+            return pd.DataFrame()
 
-        if not missing_tickers:
-            return event_df
-        
-        if len(missing_tickers) > 500:
-            missing_tickers = missing_tickers[:500]
-            print(f"Adjusting missing events to 500 to avoid excessive API calls.")
-
-        print(f"Backfilling {len(missing_tickers)} missing events from Kalshi...")
-        backfilled = []
-        for ticker in missing_tickers:
-            res = requests.get(f"{self.base_url}/events/{ticker}")
-            if res.status_code == 200:
-                backfilled.append(res.json().get('event', {}))
-            time.sleep(0.1)
-        
-        if backfilled:
-            new_events_df = pd.DataFrame(backfilled)
-            return pd.concat([event_df, new_events_df], ignore_index=True)
-        return event_df
-
-    def transform_data(self):
-        if self.raw_markets is None or self.raw_markets.empty:
-            raise ValueError("No market data found. Run fetch_data() first.")
-
-        # 1. Map Events
+        # Map to your standard schema
         event_col_map = {
-            'series_ticker': 'series_id',
             'event_ticker': 'event_id',
             'category': 'tags',
             'title': 'event_title',
             'sub_title': 'event_sub_title'
         }
+
+        # Select only what's needed for event matching
+        available_cols = [c for c in event_col_map.keys() if c in self.df_events.columns]
+        df = self.df_events[available_cols].rename(columns=event_col_map)
         
-        # Handle Backfill logic
-        full_events = self._backfill_missing_events(self.raw_markets, self.raw_events)
-        full_events = full_events[[c for c in event_col_map.keys() if c in full_events.columns]].rename(columns=event_col_map)
+        df['platform'] = 'kalshi'
 
-        # 2. Map Markets
-        # Create description from rules
-        m_df = self.raw_markets.copy()
-        m_df['description'] = m_df.get('rules_primary', '') + m_df.get('rules_secondary', '')
-
-        market_col_map = {
-            'ticker': 'market_id',
-            'event_ticker': 'event_id',
-            'yes_ask_dollars': 'yes_ask',
-            'yes_bid_dollars': 'yes_bid',
-            'close_time': 'close_time',
-            'expiration_time': 'expiration'
-        }
-
-        m_df = m_df[[c for c in market_col_map.keys() if c in m_df.columns] + ['description']].rename(columns=market_col_map)
-
-        # 3. Merge
-        # Get unique columns from events that aren't already in markets
-        cols_to_use = full_events.columns.difference(m_df.columns).tolist()
-        cols_to_use.append('event_id')
-
-        self.master_df = pd.merge(m_df, full_events[cols_to_use], on='event_id', how='inner')
-        self.master_df['platform'] = 'kalshi'
-
-        # 4. Clean using updated utils
-        self.master_df = clean_text_cols(self.master_df)
-        self.master_df = clean_datetime_cols(self.master_df, date_cols=['close_time', 'expiration'])
+        # Apply your custom cleaning function
+        df = clean_text_cols(df, exclude_cols=['event_id'])
         
-        return self.master_df
-
-    def get_separated_dfs(self):
-        if self.master_df is None:
-            self.transform_data()
-        
-        # Separate unique events for the events.csv
-        event_cols = ['event_id', 'event_title', 'event_sub_title',  'platform']
-        existing_cols = [c for c in event_cols if c in self.master_df.columns]
-        
-        events_df = self.master_df[existing_cols].drop_duplicates(subset=['event_id']).copy()
-        return self.master_df, events_df
+        return df
 
 # --- Usage ---
 if __name__ == "__main__":
-    kalshi = KalshiClient()
-    # kalshi.fetch_data()
-    # markets, events = kalshi.get_separated_dfs()
+    # Control exactly how many events you want here
+    client = KalshiEventClient(event_limit=500) 
     
-    # markets.to_csv('data/markets/kalshi_markets.csv', index=False)
-    # events.to_csv('data/events/kalshi_events.csv', index=False)
-    print("Kalshi processing complete.")
+    raw_data = client.fetch_events()
+    kalshi_events = client.transform_events()
+    
+    print(f"Successfully processed {len(kalshi_events)} Kalshi events.")
+    # kalshi_events.to_csv('data/events/kalshi_events.csv', index=False)

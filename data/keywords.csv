@@ -313,7 +313,7 @@ united kingdom,geography
 iran,geography
 italy,geography
 mexico,geography
-"south africa, canada united states",geography
+south africa canada united states,geography
 israel,geography
 japan,geography
 portugal,geography
@@ -796,7 +796,7 @@ armenia,geography
 australia,geography
 austria,geography
 azerbaijan,geography
-"bahamas,",geography
+bahamas,geography
 bahrain,geography
 bangladesh,geography
 barbados,geography
@@ -820,8 +820,8 @@ chad,geography
 chile,geography
 colombia,geography
 comoros,geography
-"congo, democratic republic",geography
-"congo, republic",geography
+congo democratic republic,geography
+congo republic,geography
 costa rica,geography
 croatia,geography
 cuba,geography
@@ -841,7 +841,7 @@ ethiopia,geography
 fiji,geography
 finland,geography
 gabon,geography
-"gambia,",geography
+gambia,geography
 ghana,geography
 greece,geography
 grenada,geography
@@ -880,7 +880,7 @@ malta,geography
 marshall islands,geography
 mauritania,geography
 mauritius,geography
-"micronesia, federated states",geography
+micronesia federated states,geography
 moldova,geography
 monaco,geography
 mongolia,geography
@@ -1846,7 +1846,7 @@ replit,company
 cmr surgical,company
 traveloka,company
 activecampaign,company
-"age learning, inc.",company
+age learning inc.,company
 automattic,company
 calendly,company
 contentful,company
@@ -2032,7 +2032,7 @@ airbyte,company
 aihuishou,company
 andela,company
 culture amp,company
-"devo, inc.",company
+devo inc.,company
 gett,company
 granola,company
 id.me,company
@@ -2072,9 +2072,9 @@ five star finance,company
 gupshup,company
 iad,company
 netdocuments,company
-"panther labs, inc.",company
+panther labs inc.,company
 pristyn care,company
-"qomplx, inc.",company
+qomplx inc.,company
 rebel foods,company
 stash,company
 symphony,company
@@ -2133,7 +2133,7 @@ upgrad,company
 workhuman,company
 sysdig,company
 deputy,company
-"3dom alliance, inc.",company
+3dom alliance inc.,company
 physics wallah,company
 acko,company
 apna,company
@@ -2158,7 +2158,7 @@ aprogen,company
 substrate,company
 character.ai,company
 pentera,company
-"vectorbuilder, inc.",company
+vectorbuilder inc.,company
 emplifi,company
 gymshark,company
 kopi kenangan,company
@@ -2178,7 +2178,7 @@ beibei,company
 blackbuck,company
 bluecore,company
 bringg,company
-"cadence solutions, inc.",company
+cadence solutions inc.,company
 calabrio,company
 carro,company
 chubao technology,company
@@ -2270,7 +2270,7 @@ perimeter 81,company
 picsart,company
 pipedrive,company
 playco,company
-"printful, inc",company
+printful inc,company
 redis labs,company
 reef technology,company
 quizlet,company
@@ -2358,6 +2358,17 @@ one,misc
 two,misc
 three,misc
 yes,misc
+arrested,misc
+arrest,misc
+pardon,misc
+free,misc
+withdraws,misc
+kills,misc
+wins,misc
+losses,misc
+oil,misc
+wti,misc
+brent,misc
 temperature,weather
 hurricane,weather
 storm,weather
@@ -2794,7 +2805,7 @@ san angelo,geography
 tracy,geography
 sunrise,geography
 stanford university,college
-"university california, los angeles",college
+university california los angeles,college
 university southern california,college
 university texas austin,college
 pennsylvania state university,college
@@ -2803,7 +2814,7 @@ university north carolina,college
 university arkansas,college
 louisiana state university,college
 university florida,college
-"university california, berkeley",college
+university california berkeley,college
 university michigan,college
 university oklahoma,college
 university virginia,college
@@ -2878,3 +2889,471 @@ summit league west coast conference 2026,college
 ivy league,college
 big east conference,college
 conference usa mountain west conference 2026,college
+thor,esports
+pindapanda,esports
+crimsix,esports
+jjonak,esports
+seagull,esports
+sinatraa,esports
+xqc,esports
+scarlett,esports
+park se-jun,esports
+svenskeren,esports
+dardoch,esports
+aphromoo,esports
+nadeshot,esports
+ray rizzo,esports
+jju,esports
+killcreek,esports
+freedom,esports
+heaton,esports
+ferrari_430,esports
+jaedong,esports
+moon,esports
+dendi,esports
+madfrog,esports
+vo0,esports
+mighty mouse,esports
+av3k,esports
+f0rest,esports
+get right,esports
+friberg,esports
+xizt,esports
+allu,esports
+rebko,esports
+huk,esports
+tod,esports
+mc,esports
+ogre2,esports
+daigo,esports
+grubby,esports
+bds,esports
+walshy,esports
+jinro,esports
+fly100%,esports
+fatal1ty,esports
+jwong,esports
+boxer,esports
+flash,esports
+nada,esports
+infi,esports
+ken,esports
+hungrybox,esports
+armada,esports
+mango,esports
+ppmd,esports
+mew2king,esports
+leffen,esports
+isai,esports
+westballz,esports
+plup,esports
+zero,esports
+nairo,esports
+pc chris,esports
+zain,esports
+axe,esports
+ludwig,esports
+glutonny,esports
+marss,esports
+mkleo,esports
+tweek,esports
+samsora,esports
+supergirlkels,esports
+zackray,esports
+dabuz,esports
+alpharad,esports
+maister,esports
+reginald,esports
+forsen,esports
+nychrisg,esports
+momochi,esports
+infiltration,esports
+xpeke,esports
+yellowstar,esports
+kennys,esports
+maikelele,esports
+olofmeister,esports
+bjergsen,esports
+sneaky,esports
+hai,esports
+doublelift,esports
+perkz,esports
+rekkles,esports
+fallen,esports
+fear,esports
+rapha,esports
+admiralbulldog,esports
+s4,esports
+puppey,esports
+zhou,esports
+hao,esports
+sansheng,esports
+banana,esports
+aui 2000,esports
+ppd,esports
+sumail,esports
+miracle-,esports
+kuroky,esports
+sonicfox,esports
+shroud,esports
+kolento,esports
+trump,esports
+hafu,esports
+amaz,esports
+stancifka,esports
+brian kibler,esports
+kripparrian,esports
+pavel,esports
+tfue,esports
+clayster,esports
+attach,esports
+antdavis3,esports
+guardian,esports
+niko,esports
+karrigan,esports
+scump,esports
+karma,esports
+aches,esports
+happy,esports
+tsquared,esports
+ace,esports
+saiyan,esports
+gh057ayame,esports
+zyos,esports
+lil poison,esports
+ogre 1,esports
+savage,esports
+benkert szn,esports
+stork,esports
+fantasy,esports
+amazing,esports
+impact,esports
+xmithie,esports
+jensen,esports
+iloveoov,esports
+cypher,esports
+taz,esports
+twistzz,esports
+s1mple,esports
+stewie2k,esports
+dupreeh,esports
+fox,esports
+freakazoid,esports
+missharvey,esports
+xyp9x,esports
+rambo,esports
+kioshima,esports
+ksharp,esports
+n0thing,esports
+dev1ce,esports
+ropz,esports
+zywoo,esports
+sgares,esports
+shahzam,esports
+shox,esports
+smithzz,esports
+summit1g,esports
+tokido,esports
+n0tail,esports
+fly,esports
+cyanide,esports
+ana,esports
+boraslegend,esports
+dirty mike,esports
+wendelllira,esports
+diego demme,esports
+m_ocki,esports
+julian riedel,esports
+jay ajayi,esports
+brent petway,esports
+b0ston,esports
+fuudo,esports
+gamerbee,esports
+mystik,esports
+luffy,esports
+xain,esports
+kayane,esports
+kazunoko,esports
+nanonoko,esports
+latif,esports
+nuckledu,esports
+hellokittyricki,esports
+punk,esports
+snake eyez,esports
+calipower,esports
+vanessa,esports
+apollo,esports
+gordon hayward,esports
+darshan,esports
+kiwikid,esports
+shiphtur,esports
+stixxay,esports
+biofrost,esports
+iamchris4life,esports
+freddiewong10,esports
+elky,esports
+idra,esports
+lucifron,esports
+adrian,esports
+aluka,esports
+balls,esports
+bdd,esports
+bengi,esports
+big,esports
+cabochard,esports
+caps,esports
+diamondprox,esports
+dan dinh,esports
+doinb,esports
+dyrus,esports
+expect,esports
+febiven,esports
+fenix,esports
+forg1ven,esports
+freeze,esports
+froggen,esports
+bunny fufuu,esports
+gamsu,esports
+gbm,esports
+gogoing,esports
+hard,esports
+hauntzer,esports
+hotshotgg,esports
+huhi,esports
+huni,esports
+alex ich,esports
+imaqtpie,esports
+karsa,esports
+keith,esports
+kobe,esports
+lemonnation,esports
+lourlo,esports
+lustboy,esports
+maple,esports
+marin,esports
+matt,esports
+meteos,esports
+misaya,esports
+mithy,esports
+ohq,esports
+piglet,esports
+quas,esports
+reignover,esports
+rush,esports
+santorin,esports
+sencux,esports
+seraph,esports
+smeb,esports
+smoothie,esports
+soaz,esports
+toyz,esports
+trick,esports
+tyler1,esports
+uzi,esports
+we1less,esports
+wildturtle,esports
+xiaoweixiao,esports
+xpecial,esports
+zven,esports
+geguri,esports
+dafran,esports
+jake,esports
+ryujehong,esports
+thresh,esports
+sjokz,esports
+sujoy,esports
+cesaro,esports
+nubbinsgoody,esports
+arslan ash,esports
+atif butt,esports
+queenarrow,esports
+cazcom,esports
+ulsan,esports
+camerica spokesperson considered one first professional gamers,esports
+dallas empire,esports
+new york excelsior,esports
+dallas fuel,esports
+sentinels,esports
+gladiators legion,esports
+brave star gaming,esports
+sk telecom t1,esports
+evil geniuses,esports
+team solomid,esports
+dignitas,esports
+100 thieves,esports
+samsung khan,esports
+ninjas pyjamas,esports
+natus vincere,esports
+method gaming,esports
+millenium,esports
+heroic,esports
+fnatic,esports
+ence esports,esports
+renegades,esports
+boston uprising,esports
+counter logic gaming,esports
+mildom beast,esports
+startale,esports
+team liquid,esports
+slayers,esports
+vici gaming,esports
+alliance,esports
+cloud9,esports
+golden guardians,esports
+cognitive gaming valuable gaming,esports
+panda global,esports
+tempo storm,esports
+solary,esports
+t1,esports
+gamewith,esports
+spacestation gaming,esports
+tempostorm,esports
+origen,esports
+psg esports coach,esports
+g2 esports,esports
+virtus.pro,esports
+digital chaos,esports
+faze clan,esports
+flyquest,esports
+furia esportsmibr luminostiy gaming sk gaming,esports
+team secret,esports
+newbee,esports
+echo fox,esports
+cloud9 retired,esports
+nrg esports,esports
+,esports
+,esports
+evil geniuses loan,esports
+faze clan nuke squad,esports
+natus vincerefaze clan,esports
+team falconsg2 esports faze clan,esports
+faze clanmousesports,esports
+chicago huntsmen,esports
+team envyus,esports
+team ldlc,esports
+team carbon,esports
+str8 rippin,esports
+optic gaming,esports
+raincallers,esports
+incredibles,esports
+gamers first,esports
+samsung galaxy,esports
+dead pixels,esports
+nemiga gaming,esports
+faze clanteam liquid,esports
+bc.gameteam liquid natus vincere,esports
+astralis,esports
+giants gaming,esports
+complexity gaming,esports
+team vitalityfaze clan mousesports,esports
+team vitality,esports
+og,esports
+hashtag united f.c.,esports
+netshoes e-sports,esports
+sv wehen wiesbaden,esports
+hansa rostock,esports
+panathinaikos esports,esports
+cygames beast,esports
+avermedia,esports
+team ares,esports
+team razer,esports
+red bull,esports
+godsgarden,esports
+san francisco optx,esports
+hupu esports,esports
+team,esports
+,esports
+kt rolster,esports
+gambit esports,esports
+funplus phoenix,esports
+delta fox,esports
+excel esports,esports
+clutch gaming,esports
+origen esports,esports
+shanghai dragons,esports
+supermassive,esports
+go dream,esports
+team envy,esports
+royal never give,esports
+flash wolves,esports
+top esports,esports
+rogue,esports
+misfits gaming,esports
+g-rex,esports
+lgd gaming,esports
+vs gaming,esports
+phoenix 1,esports
+atlanta reign,esports
+houston outlaws,esports
+seoul dynasty,esports
+tribe gaming,esports
+,esports
+twisted minds red bull esports,esports
+team falcons,esports
+freecs,esports
+tetris nintendo championships,esports
+dota 2,esports
+call duty,esports
+valorant,esports
+starcraft ii,esports
+pokémon,esports
+starcraft,esports
+quake,esports
+starcraft warcraft iii,esports
+counter-strike,esports
+defense ancients dota 2,esports
+starcraft: brood war starcraft ii,esports
+warcraft iii starcraft ii,esports
+warcraft iii,esports
+painkiller quake iii quake 4 quake champions warcraft,esports
+warcraft,esports
+quake series,esports
+counter-strike counter-strike: global offensive,esports
+counter-strike: source counter-strike: global offensive,esports
+counter-strike: global offensive,esports
+halo series call duty,esports
+street fighter series,esports
+starcraft starcraft ii,esports
+halo 2 halo 3,esports
+quake iii unreal tournament 2003 painkiller quake 4,esports
+fighting games,esports
+super smash bros. melee,esports
+super smash bros. melee project m super smash bros. ultimate,esports
+super smash bros. melee project,esports
+super smash bros. melee project m super smash bros. wii u,esports
+super smash bros. melee super smash bros. ultimate,esports
+super smash bros. 64 super smash bros. melee,esports
+super smash bros. wii u,esports
+super smash bros. wii u super smash bros. ultimate,esports
+super smash bros. ultimate,esports
+super smash bros. brawl super smash bros. wii u super smash bros. ultimate,esports
+starcraft ii hearthstone,esports
+,esports
+injustice 2 mortal kombat x dragon ball fighterz,esports
+hearthstone,esports
+hearthstoneworld warcraft,esports
+hearthstone magic: gathering,esports
+hearthstone magic: gathering diablo iii,esports
+halo,esports
+king fighters street fighter,esports
+heroes newerth dota 2,esports
+fifa,esports
+nba 2k,esports
+street fighter v,esports
+street fighter,esports
+dead alive,esports
+soulcalibur v,esports
+street fighter guilty gear,esports
+dead alive 4,esports
+league legends starcraft ii,esports
+dance dance revolution guitar hero,esports
+guitar hero,esports
+,esports
+league legends overwatch,esports
+unreal tournament '99,esports
+uno,esports
+nes tetris,esports
+tekken king fighters,esports
+tekken,esports
+mortal kombat xl tekken 7,esports
+super smash bros. project,esports
