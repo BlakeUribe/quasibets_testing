@@ -14,6 +14,31 @@ This project focuses on building an arbitrage platform for prediction markets. I
 
 3. **Arbitrage Detection**
     - Compare pricing across matched markets  
+    - Display arb opputinties
+    - Store matches in Arb Candiates
+
+4. **Websocket Monitoring**
+    - Use arb candidates from the database to get real time order boosk 
+
+
+## Database Overview
+
+- **Keyword Table**
+    - Stores a record of unique keywords such as political and geographical terms (country, city, etc.)
+    - Used to help identify matches across platforms
+    - Simplifying text down to a single unique word is too slow and often leads to inaccurate matches
+    - in addation to key word we will also scan smetic of text, we just use keyword as aoption to hard check if mathcing before running fuzzy, as fuzzy would require a cross join, and would be difficult in scalling
+
+- **Arb Candidates (Platform Pairs)**
+    - Stores potential matches in text between platforms
+    - Includes matches even when no arbitrage opportunity exists
+    - Enables continuous monitoring for future arbitrage opportunities
+
+- **Platform Events Table**
+    - Centralized storage for active platform events
+    - Helps reduce excessive API calls
+    - May not be necessary depending on system design
+
 
 ## Event Matching Approach
 
@@ -28,3 +53,4 @@ For example, a market titled *“Will Democrats win the 2026 midterms?”* conta
 ## Arbitrage Identification
 
 Once equivalent events are successfully matched, the next step is to analyze their respective market prices. Differences in pricing across platforms can reveal arbitrage opportunities, which can then be evaluated and potentially executed.
+

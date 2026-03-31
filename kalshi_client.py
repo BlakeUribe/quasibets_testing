@@ -68,7 +68,8 @@ class KalshiEventClient:
         # Select only what's needed for event matching
         available_cols = [c for c in event_col_map.keys() if c in self.df_events.columns]
         df = self.df_events[available_cols].rename(columns=event_col_map)
-        
+        df['event_title'] = df['event_title'] + ' ' + df['event_sub_title'].fillna('')
+        df.drop(columns=['event_sub_title'], inplace=True)
         df['platform'] = 'kalshi'
 
         # Apply your custom cleaning function
@@ -83,6 +84,6 @@ if __name__ == "__main__":
     
     raw_data = client.fetch_events()
     kalshi_events = client.transform_events()
-    
+    print(kalshi_events.columns)
     print(f"Successfully processed {len(kalshi_events)} Kalshi events.")
     # kalshi_events.to_csv('data/events/kalshi_events.csv', index=False)

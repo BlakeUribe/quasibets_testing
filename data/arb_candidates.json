@@ -574,5 +574,1525 @@
             "poly":"2026_west_2026"
         },
         "match_id":"b31eeb13fe"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXGREENIND-27",
+            "poly":"1170831"
+        },
+        "kalshi_text":"greenland vote for independence before 2027",
+        "poly_text":"greenland vote for independence in 2026",
+        "semantic_score":0.9727,
+        "key_sim_score":0.85,
+        "total_score":0.9114,
+        "match_key":{
+            "kalshi":"independence_2027",
+            "poly":"2026_independence_2026"
+        },
+        "match_id":"6f87bef346"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-CLAM",
+            "poly":"1792663"
+        },
+        "kalshi_text":"christo lamprecht win the valero texas open",
+        "poly_text":"christo lamprecht win the 2026 valero texas open",
+        "semantic_score":0.9551,
+        "key_sim_score":0.95,
+        "total_score":0.9526,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"93234ebd4f"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-KREI",
+            "poly":"1792724"
+        },
+        "kalshi_text":"kristoffer reitan win the valero texas open",
+        "poly_text":"kristoffer reitan win the 2026 valero texas open",
+        "semantic_score":0.9552,
+        "key_sim_score":0.95,
+        "total_score":0.9526,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"4cfd7b1c49"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-CPHI",
+            "poly":"1792713"
+        },
+        "kalshi_text":"chandler phillips win the valero texas open",
+        "poly_text":"chandler phillips win the 2026 valero texas open",
+        "semantic_score":0.9539,
+        "key_sim_score":0.95,
+        "total_score":0.952,
+        "match_key":{
+            "kalshi":"chandler_texas_9999",
+            "poly":"2026_chandler_texas_2026"
+        },
+        "match_id":"dbca81a03c"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-MMEI",
+            "poly":"1792694"
+        },
+        "kalshi_text":"mac meissner win the valero texas open",
+        "poly_text":"mac meissner win the 2026 valero texas open",
+        "semantic_score":0.9638,
+        "key_sim_score":0.94,
+        "total_score":0.9519,
+        "match_key":{
+            "kalshi":"meissner_texas_9999",
+            "poly":"2026_meissner_texas_2026"
+        },
+        "match_id":"09a553bd34"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-EGRI",
+            "poly":"1792575"
+        },
+        "kalshi_text":"emiliano grillo win the valero texas open",
+        "poly_text":"emiliano grillo win the 2026 valero texas open",
+        "semantic_score":0.9633,
+        "key_sim_score":0.94,
+        "total_score":0.9516,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"c9aca59685"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-RFOW",
+            "poly":"1792563"
+        },
+        "kalshi_text":"rickie fowler win the valero texas open",
+        "poly_text":"rickie fowler win the 2026 valero texas open",
+        "semantic_score":0.9631,
+        "key_sim_score":0.94,
+        "total_score":0.9515,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"b80e6138d7"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-CRAM",
+            "poly":"1792722"
+        },
+        "kalshi_text":"chad ramey win the valero texas open",
+        "poly_text":"chad ramey win the 2026 valero texas open",
+        "semantic_score":0.9624,
+        "key_sim_score":0.94,
+        "total_score":0.9512,
+        "match_key":{
+            "kalshi":"chad_texas_9999",
+            "poly":"2026_chad_texas_2026"
+        },
+        "match_id":"f50e5fc990"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-MHUB",
+            "poly":"1792620"
+        },
+        "kalshi_text":"mark hubbard win the valero texas open",
+        "poly_text":"mark hubbard win the 2026 valero texas open",
+        "semantic_score":0.9619,
+        "key_sim_score":0.94,
+        "total_score":0.951,
+        "match_key":{
+            "kalshi":"mark_texas_9999",
+            "poly":"2026_mark_texas_2026"
+        },
+        "match_id":"dacffaa93a"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-PFIS",
+            "poly":"1792553"
+        },
+        "kalshi_text":"patrick fishburn win the valero texas open",
+        "poly_text":"patrick fishburn win the 2026 valero texas open",
+        "semantic_score":0.9618,
+        "key_sim_score":0.94,
+        "total_score":0.9509,
+        "match_key":{
+            "kalshi":"patrick_texas_9999",
+            "poly":"2026_patrick_texas_2026"
+        },
+        "match_id":"726c8f5657"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-LABE",
+            "poly":"1792484"
+        },
+        "kalshi_text":"ludvig aberg win the valero texas open",
+        "poly_text":"ludvig aberg win the 2026 valero texas open",
+        "semantic_score":0.9614,
+        "key_sim_score":0.94,
+        "total_score":0.9507,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"160433f394"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-BGAR",
+            "poly":"1792565"
+        },
+        "kalshi_text":"brice garnett win the valero texas open",
+        "poly_text":"brice garnett win the 2026 valero texas open",
+        "semantic_score":0.9612,
+        "key_sim_score":0.94,
+        "total_score":0.9506,
+        "match_key":{
+            "kalshi":"brice_texas_9999",
+            "poly":"2026_brice_texas_2026"
+        },
+        "match_id":"a8e0a57364"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-MMCN",
+            "poly":"1792691"
+        },
+        "kalshi_text":"maverick mcnealy win the valero texas open",
+        "poly_text":"maverick mcnealy win the 2026 valero texas open",
+        "semantic_score":0.9607,
+        "key_sim_score":0.94,
+        "total_score":0.9503,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"54bd4c5fd6"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-MMCG",
+            "poly":"1792688"
+        },
+        "kalshi_text":"max mcgreevy win the valero texas open",
+        "poly_text":"max mcgreevy win the 2026 valero texas open",
+        "semantic_score":0.9607,
+        "key_sim_score":0.94,
+        "total_score":0.9503,
+        "match_key":{
+            "kalshi":"max_texas_9999",
+            "poly":"2026_max_texas_2026"
+        },
+        "match_id":"f32ed1773c"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-GSAR",
+            "poly":"1792740"
+        },
+        "kalshi_text":"gordon sargent win the valero texas open",
+        "poly_text":"gordon sargent win the 2026 valero texas open",
+        "semantic_score":0.9598,
+        "key_sim_score":0.94,
+        "total_score":0.9499,
+        "match_key":{
+            "kalshi":"gordon_texas_9999",
+            "poly":"2026_gordon_texas_2026"
+        },
+        "match_id":"337396269c"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-CMOR",
+            "poly":"1792699"
+        },
+        "kalshi_text":"collin morikawa win the valero texas open",
+        "poly_text":"collin morikawa win the 2026 valero texas open",
+        "semantic_score":0.9598,
+        "key_sim_score":0.94,
+        "total_score":0.9499,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"ffc9517fbc"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-BHOS",
+            "poly":"1792617"
+        },
+        "kalshi_text":"beau hossler win the valero texas open",
+        "poly_text":"beau hossler win the 2026 valero texas open",
+        "semantic_score":0.9592,
+        "key_sim_score":0.94,
+        "total_score":0.9496,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"431b9cc925"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-LCLA",
+            "poly":"1792521"
+        },
+        "kalshi_text":"luke clanton win the valero texas open",
+        "poly_text":"luke clanton win the 2026 valero texas open",
+        "semantic_score":0.959,
+        "key_sim_score":0.94,
+        "total_score":0.9495,
+        "match_key":{
+            "kalshi":"luke_texas_9999",
+            "poly":"2026_luke_texas_2026"
+        },
+        "match_id":"1424ed772e"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-TOLE",
+            "poly":"1792706"
+        },
+        "kalshi_text":"thorbjorn olesen win the valero texas open",
+        "poly_text":"thorbjorn olesen win the 2026 valero texas open",
+        "semantic_score":0.9588,
+        "key_sim_score":0.94,
+        "total_score":0.9494,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"c0ad293d00"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-MPEN",
+            "poly":"1792711"
+        },
+        "kalshi_text":"marco penge win the valero texas open",
+        "poly_text":"marco penge win the 2026 valero texas open",
+        "semantic_score":0.9585,
+        "key_sim_score":0.94,
+        "total_score":0.9492,
+        "match_key":{
+            "kalshi":"marco_texas_9999",
+            "poly":"2026_marco_texas_2026"
+        },
+        "match_id":"7a5ed6c74f"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-NHOJ",
+            "poly":"1792607"
+        },
+        "kalshi_text":"nicolai hojgaard win the valero texas open",
+        "poly_text":"nicolai hojgaard win the 2026 valero texas open",
+        "semantic_score":0.9584,
+        "key_sim_score":0.94,
+        "total_score":0.9492,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"388f169d79"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-KHIR",
+            "poly":"1792591"
+        },
+        "kalshi_text":"kensei hirata win the valero texas open",
+        "poly_text":"kensei hirata win the 2026 valero texas open",
+        "semantic_score":0.9585,
+        "key_sim_score":0.94,
+        "total_score":0.9492,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"b99a93166b"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-CBLA",
+            "poly":"1792496"
+        },
+        "kalshi_text":"chandler blanchet win the valero texas open",
+        "poly_text":"chandler blanchet win the 2026 valero texas open",
+        "semantic_score":0.9479,
+        "key_sim_score":0.95,
+        "total_score":0.949,
+        "match_key":{
+            "kalshi":"chandler_texas_9999",
+            "poly":"2026_chandler_texas_2026"
+        },
+        "match_id":"510f28a57f"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-WSIM",
+            "poly":"1792753"
+        },
+        "kalshi_text":"webb simpson win the valero texas open",
+        "poly_text":"webb simpson win the 2026 valero texas open",
+        "semantic_score":0.9575,
+        "key_sim_score":0.94,
+        "total_score":0.9488,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"200c93fa38"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-ASMO",
+            "poly":"1792760"
+        },
+        "kalshi_text":"austin smotherman win the valero texas open",
+        "poly_text":"austin smotherman win the 2026 valero texas open",
+        "semantic_score":0.9476,
+        "key_sim_score":0.95,
+        "total_score":0.9488,
+        "match_key":{
+            "kalshi":"austin_texas_9999",
+            "poly":"2026_austin_texas_2026"
+        },
+        "match_id":"52d127b21d"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-KLEE",
+            "poly":"1792666"
+        },
+        "kalshi_text":"kyoung hoon lee win the valero texas open",
+        "poly_text":"kyoung hoon lee win the 2026 valero texas open",
+        "semantic_score":0.9569,
+        "key_sim_score":0.94,
+        "total_score":0.9485,
+        "match_key":{
+            "kalshi":"lee_texas_9999",
+            "poly":"2026_lee_texas_2026"
+        },
+        "match_id":"83a82e3ccf"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-NDUN",
+            "poly":"1792540"
+        },
+        "kalshi_text":"nick dunlap win the valero texas open",
+        "poly_text":"nick dunlap win the 2026 valero texas open",
+        "semantic_score":0.9568,
+        "key_sim_score":0.94,
+        "total_score":0.9484,
+        "match_key":{
+            "kalshi":"nick_texas_9999",
+            "poly":"2026_nick_texas_2026"
+        },
+        "match_id":"ec70cc94f3"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-ASMA",
+            "poly":"1792756"
+        },
+        "kalshi_text":"alex smalley win the valero texas open",
+        "poly_text":"alex smalley win the 2026 valero texas open",
+        "semantic_score":0.9567,
+        "key_sim_score":0.94,
+        "total_score":0.9483,
+        "match_key":{
+            "kalshi":"alex_texas_9999",
+            "poly":"2026_alex_texas_2026"
+        },
+        "match_id":"f0ae58a9b2"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-MROZ",
+            "poly":"1792731"
+        },
+        "kalshi_text":"marcelo rozo win the valero texas open",
+        "poly_text":"marcelo rozo win the 2026 valero texas open",
+        "semantic_score":0.9564,
+        "key_sim_score":0.94,
+        "total_score":0.9482,
+        "match_key":{
+            "kalshi":"marcelo_texas_9999",
+            "poly":"2026_marcelo_texas_2026"
+        },
+        "match_id":"2dcf373e03"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-GHIG",
+            "poly":"1792583"
+        },
+        "kalshi_text":"garrick higgo win the valero texas open",
+        "poly_text":"garrick higgo win the 2026 valero texas open",
+        "semantic_score":0.9563,
+        "key_sim_score":0.94,
+        "total_score":0.9481,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"4d2e76dcf7"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-DLIP",
+            "poly":"1792669"
+        },
+        "kalshi_text":"david lipsky win the valero texas open",
+        "poly_text":"david lipsky win the 2026 valero texas open",
+        "semantic_score":0.9563,
+        "key_sim_score":0.94,
+        "total_score":0.9481,
+        "match_key":{
+            "kalshi":"david_texas_9999",
+            "poly":"2026_david_texas_2026"
+        },
+        "match_id":"6ac723a11c"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-RCAM",
+            "poly":"1792504"
+        },
+        "kalshi_text":"rafael campos win the valero texas open",
+        "poly_text":"rafael campos win the 2026 valero texas open",
+        "semantic_score":0.9562,
+        "key_sim_score":0.94,
+        "total_score":0.9481,
+        "match_key":{
+            "kalshi":"rafael_texas_9999",
+            "poly":"2026_rafael_texas_2026"
+        },
+        "match_id":"0845bce24c"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-BCAU",
+            "poly":"1792513"
+        },
+        "kalshi_text":"bud cauley win the valero texas open",
+        "poly_text":"bud cauley win the 2026 valero texas open",
+        "semantic_score":0.9557,
+        "key_sim_score":0.94,
+        "total_score":0.9479,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"4349bfdcc6"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-LGLO",
+            "poly":"1792572"
+        },
+        "kalshi_text":"lucas glover win the valero texas open",
+        "poly_text":"lucas glover win the 2026 valero texas open",
+        "semantic_score":0.9556,
+        "key_sim_score":0.94,
+        "total_score":0.9478,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"12b1909c02"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-SFIS",
+            "poly":"1792556"
+        },
+        "kalshi_text":"steven fisk win the valero texas open",
+        "poly_text":"steven fisk win the 2026 valero texas open",
+        "semantic_score":0.9555,
+        "key_sim_score":0.94,
+        "total_score":0.9477,
+        "match_key":{
+            "kalshi":"steven_texas_9999",
+            "poly":"2026_steven_texas_2026"
+        },
+        "match_id":"640abdcb85"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-PMAL",
+            "poly":"1792673"
+        },
+        "kalshi_text":"peter malnati win the valero texas open",
+        "poly_text":"peter malnati win the 2026 valero texas open",
+        "semantic_score":0.9554,
+        "key_sim_score":0.94,
+        "total_score":0.9477,
+        "match_key":{
+            "kalshi":"peter_texas_9999",
+            "poly":"2026_peter_texas_2026"
+        },
+        "match_id":"e046bb69be"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-RMAC",
+            "poly":"1792671"
+        },
+        "kalshi_text":"robert macintyre win the valero texas open",
+        "poly_text":"robert macintyre win the 2026 valero texas open",
+        "semantic_score":0.9548,
+        "key_sim_score":0.94,
+        "total_score":0.9474,
+        "match_key":{
+            "kalshi":"robert_texas_9999",
+            "poly":"2026_robert_texas_2026"
+        },
+        "match_id":"53dee842b5"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-TFLE",
+            "poly":"1792559"
+        },
+        "kalshi_text":"tommy fleetwood win the valero texas open",
+        "poly_text":"tommy fleetwood win the 2026 valero texas open",
+        "semantic_score":0.9544,
+        "key_sim_score":0.94,
+        "total_score":0.9472,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"4036def6a7"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-DBRO",
+            "poly":"1792501"
+        },
+        "kalshi_text":"daniel brown win the valero texas open",
+        "poly_text":"daniel brown win the 2026 valero texas open",
+        "semantic_score":0.9543,
+        "key_sim_score":0.94,
+        "total_score":0.9472,
+        "match_key":{
+            "kalshi":"brown_daniel_texas_9999",
+            "poly":"2026_brown_daniel_texas_2026"
+        },
+        "match_id":"930268ae89"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-PKIZ",
+            "poly":"1792662"
+        },
+        "kalshi_text":"patton kizzire win the valero texas open",
+        "poly_text":"patton kizzire win the 2026 valero texas open",
+        "semantic_score":0.9545,
+        "key_sim_score":0.94,
+        "total_score":0.9472,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"f32f34e82f"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-PNYH",
+            "poly":"1792705"
+        },
+        "kalshi_text":"pontus nyholm win the valero texas open",
+        "poly_text":"pontus nyholm win the 2026 valero texas open",
+        "semantic_score":0.9542,
+        "key_sim_score":0.94,
+        "total_score":0.9471,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"542c9b1015"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-BSNE",
+            "poly":"1792762"
+        },
+        "kalshi_text":"brandt snedeker win the valero texas open",
+        "poly_text":"brandt snedeker win the 2026 valero texas open",
+        "semantic_score":0.9539,
+        "key_sim_score":0.94,
+        "total_score":0.947,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"0938d2bac8"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-THOG",
+            "poly":"1792604"
+        },
+        "kalshi_text":"tom hoge win the valero texas open",
+        "poly_text":"tom hoge win the 2026 valero texas open",
+        "semantic_score":0.9638,
+        "key_sim_score":0.93,
+        "total_score":0.9469,
+        "match_key":{
+            "kalshi":"texas_tom_9999",
+            "poly":"2026_texas_tom_2026"
+        },
+        "match_id":"ae6308b7b8"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-MHOM",
+            "poly":"1792610"
+        },
+        "kalshi_text":"max homa win the valero texas open",
+        "poly_text":"max homa win the 2026 valero texas open",
+        "semantic_score":0.9636,
+        "key_sim_score":0.93,
+        "total_score":0.9468,
+        "match_key":{
+            "kalshi":"max_texas_9999",
+            "poly":"2026_max_texas_2026"
+        },
+        "match_id":"b011a52a45"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-BHOR",
+            "poly":"1792614"
+        },
+        "kalshi_text":"billy horschel win the valero texas open",
+        "poly_text":"billy horschel win the 2026 valero texas open",
+        "semantic_score":0.9535,
+        "key_sim_score":0.94,
+        "total_score":0.9468,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"b5ea496abb"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-TKAN",
+            "poly":"1792634"
+        },
+        "kalshi_text":"takumi kanaya win the valero texas open",
+        "poly_text":"takumi kanaya win the 2026 valero texas open",
+        "semantic_score":0.953,
+        "key_sim_score":0.94,
+        "total_score":0.9465,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"8dd28e50f3"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-RCAS",
+            "poly":"1792509"
+        },
+        "kalshi_text":"ricky castillo win the valero texas open",
+        "poly_text":"ricky castillo win the 2026 valero texas open",
+        "semantic_score":0.953,
+        "key_sim_score":0.94,
+        "total_score":0.9465,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"bad5261e58"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-DFOR",
+            "poly":"1792561"
+        },
+        "kalshi_text":"david ford win the valero texas open",
+        "poly_text":"david ford win the 2026 valero texas open",
+        "semantic_score":0.953,
+        "key_sim_score":0.94,
+        "total_score":0.9465,
+        "match_key":{
+            "kalshi":"david_ford_texas_9999",
+            "poly":"2026_david_ford_texas_2026"
+        },
+        "match_id":"ed45c8284e"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-SPOW",
+            "poly":"1792718"
+        },
+        "kalshi_text":"seamus power win the valero texas open",
+        "poly_text":"seamus power win the 2026 valero texas open",
+        "semantic_score":0.9527,
+        "key_sim_score":0.94,
+        "total_score":0.9464,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"801ead18af"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-BHAR",
+            "poly":"1792577"
+        },
+        "kalshi_text":"brian harman win the valero texas open",
+        "poly_text":"brian harman win the 2026 valero texas open",
+        "semantic_score":0.9527,
+        "key_sim_score":0.94,
+        "total_score":0.9464,
+        "match_key":{
+            "kalshi":"brian_texas_9999",
+            "poly":"2026_brian_texas_2026"
+        },
+        "match_id":"362ad48432"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-RHEN",
+            "poly":"1792580"
+        },
+        "kalshi_text":"russell henley win the valero texas open",
+        "poly_text":"russell henley win the 2026 valero texas open",
+        "semantic_score":0.9524,
+        "key_sim_score":0.94,
+        "total_score":0.9462,
+        "match_key":{
+            "kalshi":"russell_texas_9999",
+            "poly":"2026_russell_texas_2026"
+        },
+        "match_id":"e6f51917e2"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-HMAT",
+            "poly":"1792676"
+        },
+        "kalshi_text":"hideki matsuyama win the valero texas open",
+        "poly_text":"hideki matsuyama win the 2026 valero texas open",
+        "semantic_score":0.9519,
+        "key_sim_score":0.94,
+        "total_score":0.946,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"c5dbe15891"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-ASAD",
+            "poly":"1792734"
+        },
+        "kalshi_text":"adrien saddier win the valero texas open",
+        "poly_text":"adrien saddier win the 2026 valero texas open",
+        "semantic_score":0.9519,
+        "key_sim_score":0.94,
+        "total_score":0.946,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"9cb440b61c"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-ADUM",
+            "poly":"1792535"
+        },
+        "kalshi_text":"adrien dumont de chassart win the valero texas open",
+        "poly_text":"adrien dumont de chassart win the 2026 valero texas open",
+        "semantic_score":0.9419,
+        "key_sim_score":0.95,
+        "total_score":0.9459,
+        "match_key":{
+            "kalshi":"de_texas_9999",
+            "poly":"2026_de_texas_2026"
+        },
+        "match_id":"046acb7e57"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-RHIS",
+            "poly":"1792594"
+        },
+        "kalshi_text":"ryo hisatsune win the valero texas open",
+        "poly_text":"ryo hisatsune win the 2026 valero texas open",
+        "semantic_score":0.9519,
+        "key_sim_score":0.94,
+        "total_score":0.9459,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"a1761b6376"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-TFIN",
+            "poly":"1792549"
+        },
+        "kalshi_text":"tony finau win the valero texas open",
+        "poly_text":"tony finau win the 2026 valero texas open",
+        "semantic_score":0.9516,
+        "key_sim_score":0.94,
+        "total_score":0.9458,
+        "match_key":{
+            "kalshi":"texas_tony_9999",
+            "poly":"2026_texas_tony_2026"
+        },
+        "match_id":"3bf0a48410"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-MHUG",
+            "poly":"1792625"
+        },
+        "kalshi_text":"mackenzie hughes win the valero texas open",
+        "poly_text":"mackenzie hughes win the 2026 valero texas open",
+        "semantic_score":0.9516,
+        "key_sim_score":0.94,
+        "total_score":0.9458,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"c008d1fd8e"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-CHOF",
+            "poly":"1792601"
+        },
+        "kalshi_text":"charley hoffman win the valero texas open",
+        "poly_text":"charley hoffman win the 2026 valero texas open",
+        "semantic_score":0.9517,
+        "key_sim_score":0.94,
+        "total_score":0.9458,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"0f613e8939"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-CBEZ",
+            "poly":"1792493"
+        },
+        "kalshi_text":"christiaan bezuidenhout win the valero texas open",
+        "poly_text":"christiaan bezuidenhout win the 2026 valero texas open",
+        "semantic_score":0.9415,
+        "key_sim_score":0.95,
+        "total_score":0.9457,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"01d71f4164"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-DCHA",
+            "poly":"1792517"
+        },
+        "kalshi_text":"davis chatfield win the valero texas open",
+        "poly_text":"davis chatfield win the 2026 valero texas open",
+        "semantic_score":0.9515,
+        "key_sim_score":0.94,
+        "total_score":0.9457,
+        "match_key":{
+            "kalshi":"davis_texas_9999",
+            "poly":"2026_davis_texas_2026"
+        },
+        "match_id":"8afcba2a6d"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-WMOU",
+            "poly":"1792700"
+        },
+        "kalshi_text":"william mouw win the valero texas open",
+        "poly_text":"william mouw win the 2026 valero texas open",
+        "semantic_score":0.951,
+        "key_sim_score":0.94,
+        "total_score":0.9455,
+        "match_key":{
+            "kalshi":"texas_william_9999",
+            "poly":"2026_texas_william_2026"
+        },
+        "match_id":"72a3544aa6"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-NSHI",
+            "poly":"1792750"
+        },
+        "kalshi_text":"neal shipley win the valero texas open",
+        "poly_text":"neal shipley win the 2026 valero texas open",
+        "semantic_score":0.9507,
+        "key_sim_score":0.94,
+        "total_score":0.9453,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"fb9090baaa"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-PCOO",
+            "poly":"1792527"
+        },
+        "kalshi_text":"pierceson coody win the valero texas open",
+        "poly_text":"pierceson coody win the 2026 valero texas open",
+        "semantic_score":0.9502,
+        "key_sim_score":0.94,
+        "total_score":0.9451,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"73cc89ad06"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-KMIT",
+            "poly":"1792697"
+        },
+        "kalshi_text":"keith mitchell win the valero texas open",
+        "poly_text":"keith mitchell win the 2026 valero texas open",
+        "semantic_score":0.9499,
+        "key_sim_score":0.94,
+        "total_score":0.9449,
+        "match_key":{
+            "kalshi":"keith_mitchell_texas_9999",
+            "poly":"2026_keith_mitchell_texas_2026"
+        },
+        "match_id":"fd5785d9d3"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-LHOD",
+            "poly":"1792597"
+        },
+        "kalshi_text":"lee hodges win the valero texas open",
+        "poly_text":"lee hodges win the 2026 valero texas open",
+        "semantic_score":0.9495,
+        "key_sim_score":0.94,
+        "total_score":0.9448,
+        "match_key":{
+            "kalshi":"lee_texas_9999",
+            "poly":"2026_lee_texas_2026"
+        },
+        "match_id":"5ecfeca850"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-HLI",
+            "poly":"1792667"
+        },
+        "kalshi_text":"hao tong li win the valero texas open",
+        "poly_text":"hao tong li win the 2026 valero texas open",
+        "semantic_score":0.9496,
+        "key_sim_score":0.94,
+        "total_score":0.9448,
+        "match_key":{
+            "kalshi":"hao_li_texas_9999",
+            "poly":"2026_hao_li_texas_2026"
+        },
+        "match_id":"ca664e3908"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-CKIR",
+            "poly":"1792661"
+        },
+        "kalshi_text":"chris kirk win the valero texas open",
+        "poly_text":"chris kirk win the 2026 valero texas open",
+        "semantic_score":0.9495,
+        "key_sim_score":0.94,
+        "total_score":0.9448,
+        "match_key":{
+            "kalshi":"chris_texas_9999",
+            "poly":"2026_chris_texas_2026"
+        },
+        "match_id":"5e6f9bb22b"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-ASCH",
+            "poly":"1792743"
+        },
+        "kalshi_text":"adam schenk win the valero texas open",
+        "poly_text":"adam schenk win the 2026 valero texas open",
+        "semantic_score":0.9494,
+        "key_sim_score":0.94,
+        "total_score":0.9447,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"0572dd1c05"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-APUT",
+            "poly":"1792720"
+        },
+        "kalshi_text":"andrew putnam win the valero texas open",
+        "poly_text":"andrew putnam win the 2026 valero texas open",
+        "semantic_score":0.9487,
+        "key_sim_score":0.94,
+        "total_score":0.9443,
+        "match_key":{
+            "kalshi":"andrew_texas_9999",
+            "poly":"2026_andrew_texas_2026"
+        },
+        "match_id":"409eea0731"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-JSPI",
+            "poly":"1792764"
+        },
+        "kalshi_text":"jordan spieth win the valero texas open",
+        "poly_text":"jordan spieth win the 2026 valero texas open",
+        "semantic_score":0.9485,
+        "key_sim_score":0.94,
+        "total_score":0.9443,
+        "match_key":{
+            "kalshi":"jordan_texas_9999",
+            "poly":"2026_jordan_texas_2026"
+        },
+        "match_id":"74dae27fd0"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-DMCC",
+            "poly":"1792681"
+        },
+        "kalshi_text":"denny mccarthy win the valero texas open",
+        "poly_text":"denny mccarthy win the 2026 valero texas open",
+        "semantic_score":0.9475,
+        "key_sim_score":0.94,
+        "total_score":0.9437,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"37e1b7cf4f"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-SJAE",
+            "poly":"1792629"
+        },
+        "kalshi_text":"stephan jaeger win the valero texas open",
+        "poly_text":"stephan jaeger win the 2026 valero texas open",
+        "semantic_score":0.9472,
+        "key_sim_score":0.94,
+        "total_score":0.9436,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"92cb48b6d0"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-JKAN",
+            "poly":"1792640"
+        },
+        "kalshi_text":"jeffrey kang win the valero texas open",
+        "poly_text":"jeffrey kang win the 2026 valero texas open",
+        "semantic_score":0.9472,
+        "key_sim_score":0.94,
+        "total_score":0.9436,
+        "match_key":{
+            "kalshi":"jeffrey_texas_9999",
+            "poly":"2026_jeffrey_texas_2026"
+        },
+        "match_id":"92dfdea245"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-DBER",
+            "poly":"1792489"
+        },
+        "kalshi_text":"daniel berger win the valero texas open",
+        "poly_text":"daniel berger win the 2026 valero texas open",
+        "semantic_score":0.9467,
+        "key_sim_score":0.94,
+        "total_score":0.9434,
+        "match_key":{
+            "kalshi":"daniel_texas_9999",
+            "poly":"2026_daniel_texas_2026"
+        },
+        "match_id":"2cf8f58239"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-MPAV",
+            "poly":"1792709"
+        },
+        "kalshi_text":"matthieu pavon win the valero texas open",
+        "poly_text":"matthieu pavon win the 2026 valero texas open",
+        "semantic_score":0.9464,
+        "key_sim_score":0.94,
+        "total_score":0.9432,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"a44892cccf"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-JSMI",
+            "poly":"1792758"
+        },
+        "kalshi_text":"jordan l smith win the valero texas open",
+        "poly_text":"jordan l smith win the 2026 valero texas open",
+        "semantic_score":0.9458,
+        "key_sim_score":0.94,
+        "total_score":0.9429,
+        "match_key":{
+            "kalshi":"jordan_smith_texas_9999",
+            "poly":"2026_jordan_smith_texas_2026"
+        },
+        "match_id":"8eaa85dc89"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-JHIG",
+            "poly":"1792587"
+        },
+        "kalshi_text":"joe highsmith win the valero texas open",
+        "poly_text":"joe highsmith win the 2026 valero texas open",
+        "semantic_score":0.9454,
+        "key_sim_score":0.94,
+        "total_score":0.9427,
+        "match_key":{
+            "kalshi":"joe_texas_9999",
+            "poly":"2026_joe_texas_2026"
+        },
+        "match_id":"49bccc1d3f"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-WKIM",
+            "poly":"1792656"
+        },
+        "kalshi_text":"si woo kim win the valero texas open",
+        "poly_text":"si woo kim win the 2026 valero texas open",
+        "semantic_score":0.9443,
+        "key_sim_score":0.94,
+        "total_score":0.9421,
+        "match_key":{
+            "kalshi":"kim_texas_9999",
+            "poly":"2026_kim_texas_2026"
+        },
+        "match_id":"d4f8caf5ab"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-DGHI",
+            "poly":"1792570"
+        },
+        "kalshi_text":"doug ghim win the valero texas open",
+        "poly_text":"doug ghim win the 2026 valero texas open",
+        "semantic_score":0.953,
+        "key_sim_score":0.93,
+        "total_score":0.9415,
+        "match_key":{
+            "kalshi":"doug_texas_9999",
+            "poly":"2026_doug_texas_2026"
+        },
+        "match_id":"7c0cb5feb2"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-AECK",
+            "poly":"1792543"
+        },
+        "kalshi_text":"austin eckroat win the valero texas open",
+        "poly_text":"austin eckroat win the 2026 valero texas open",
+        "semantic_score":0.943,
+        "key_sim_score":0.94,
+        "total_score":0.9415,
+        "match_key":{
+            "kalshi":"austin_texas_9999",
+            "poly":"2026_austin_texas_2026"
+        },
+        "match_id":"dfbf0743c8"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-PROD",
+            "poly":"1792725"
+        },
+        "kalshi_text":"patrick rodgers win the valero texas open",
+        "poly_text":"patrick rodgers win the 2026 valero texas open",
+        "semantic_score":0.9429,
+        "key_sim_score":0.94,
+        "total_score":0.9414,
+        "match_key":{
+            "kalshi":"patrick_rodgers_texas_9999",
+            "poly":"2026_patrick_rodgers_texas_2026"
+        },
+        "match_id":"85080c4fbe"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-ECOL",
+            "poly":"1792524"
+        },
+        "kalshi_text":"eric cole win the valero texas open",
+        "poly_text":"eric cole win the 2026 valero texas open",
+        "semantic_score":0.9528,
+        "key_sim_score":0.93,
+        "total_score":0.9414,
+        "match_key":{
+            "kalshi":"eric_texas_9999",
+            "poly":"2026_eric_texas_2026"
+        },
+        "match_id":"d9c91b944f"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-MKIM",
+            "poly":"1792650"
+        },
+        "kalshi_text":"michael kim win the valero texas open",
+        "poly_text":"michael kim win the 2026 valero texas open",
+        "semantic_score":0.9425,
+        "key_sim_score":0.94,
+        "total_score":0.9413,
+        "match_key":{
+            "kalshi":"kim_michael_texas_9999",
+            "poly":"2026_kim_michael_texas_2026"
+        },
+        "match_id":"5add03cacd"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-RHOE",
+            "poly":"1792599"
+        },
+        "kalshi_text":"rico hoey win the valero texas open",
+        "poly_text":"rico hoey win the 2026 valero texas open",
+        "semantic_score":0.9527,
+        "key_sim_score":0.93,
+        "total_score":0.9413,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"2714e64fa3"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-JPAR",
+            "poly":"1792707"
+        },
+        "kalshi_text":"john parry win the valero texas open",
+        "poly_text":"john parry win the 2026 valero texas open",
+        "semantic_score":0.9424,
+        "key_sim_score":0.94,
+        "total_score":0.9412,
+        "match_key":{
+            "kalshi":"john_texas_9999",
+            "poly":"2026_john_texas_2026"
+        },
+        "match_id":"221e2ade43"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-JSPA",
+            "poly":"1792763"
+        },
+        "kalshi_text":"j j spaun win the valero texas open",
+        "poly_text":"j j spaun win the 2026 valero texas open",
+        "semantic_score":0.9487,
+        "key_sim_score":0.93,
+        "total_score":0.9393,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"a4091b3f3b"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-TKIM",
+            "poly":"1792659"
+        },
+        "kalshi_text":"tom kim win the valero texas open",
+        "poly_text":"tom kim win the 2026 valero texas open",
+        "semantic_score":0.9482,
+        "key_sim_score":0.93,
+        "total_score":0.9391,
+        "match_key":{
+            "kalshi":"kim_texas_tom_9999",
+            "poly":"2026_kim_texas_tom_2026"
+        },
+        "match_id":"e7135b5794"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-KROY",
+            "poly":"1792728"
+        },
+        "kalshi_text":"kevin roy win the valero texas open",
+        "poly_text":"kevin roy win the 2026 valero texas open",
+        "semantic_score":0.9451,
+        "key_sim_score":0.93,
+        "total_score":0.9375,
+        "match_key":{
+            "kalshi":"kevin_texas_9999",
+            "poly":"2026_kevin_texas_2026"
+        },
+        "match_id":"1e13bad859"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-ANOV",
+            "poly":"1792703"
+        },
+        "kalshi_text":"andrew novak win the valero texas open",
+        "poly_text":"andrew novak win the 2026 valero texas open",
+        "semantic_score":0.933,
+        "key_sim_score":0.94,
+        "total_score":0.9365,
+        "match_key":{
+            "kalshi":"andrew_novak_texas_9999",
+            "poly":"2026_andrew_novak_texas_2026"
+        },
+        "match_id":"6908456e59"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-AEWA",
+            "poly":"1792546"
+        },
+        "kalshi_text":"a j ewart win the valero texas open",
+        "poly_text":"a j ewart win the 2026 valero texas open",
+        "semantic_score":0.9422,
+        "key_sim_score":0.93,
+        "total_score":0.9361,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"e6339ad2b9"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-JKEE",
+            "poly":"1792642"
+        },
+        "kalshi_text":"john keefer win the valero texas open",
+        "poly_text":"johnny keefer win the 2026 valero texas open",
+        "semantic_score":0.9167,
+        "key_sim_score":0.91,
+        "total_score":0.9134,
+        "match_key":{
+            "kalshi":"john_texas_9999",
+            "poly":"2026_johnny_texas_2026"
+        },
+        "match_id":"f63e78431a"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-MMCC",
+            "poly":"1792684"
+        },
+        "kalshi_text":"matthew mccarty win the valero texas open",
+        "poly_text":"matt mccarty win the 2026 valero texas open",
+        "semantic_score":0.9235,
+        "key_sim_score":0.9,
+        "total_score":0.9117,
+        "match_key":{
+            "kalshi":"matthew_texas_9999",
+            "poly":"2026_matt_texas_2026"
+        },
+        "match_id":"27d37bff25"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXPGATOUR-VATO26-JPOS",
+            "poly":"1792715"
+        },
+        "kalshi_text":"j t poston win the valero texas open",
+        "poly_text":"jt poston win the 2026 valero texas open",
+        "semantic_score":0.9277,
+        "key_sim_score":0.89,
+        "total_score":0.9089,
+        "match_key":{
+            "kalshi":"texas_9999",
+            "poly":"2026_texas_2026"
+        },
+        "match_id":"b8ea09a405"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXFOMEN-26-STR",
+            "poly":"1087533"
+        },
+        "kalshi_text":"january lennard struff win the french open",
+        "poly_text":"january lennard struff win the 2026 men s french open",
+        "semantic_score":0.9259,
+        "key_sim_score":0.88,
+        "total_score":0.9029,
+        "match_key":{
+            "kalshi":"french_january_2026",
+            "poly":"2026_french_january_2026"
+        },
+        "match_id":"e7aad3c979"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXFOMEN-26-SIN",
+            "poly":"1087513"
+        },
+        "kalshi_text":"jannik sinner win the french open",
+        "poly_text":"jannik sinner win the 2026 men s french open",
+        "semantic_score":0.9404,
+        "key_sim_score":0.86,
+        "total_score":0.9002,
+        "match_key":{
+            "kalshi":"french_2026",
+            "poly":"2026_french_2026"
+        },
+        "match_id":"a1b56b3db5"
     }
 ]

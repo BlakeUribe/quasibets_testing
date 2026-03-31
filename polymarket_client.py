@@ -4,12 +4,12 @@ import time
 from utils import clean_text_cols
 
 class PolymarketEventClient:
-    def __init__(self, target_count=500):
+    def __init__(self, event_limit=500):
         """
-        target_count: Total number of active events to fetch.
+        event_limit: Total number of active events to fetch.
         """
         self.base_url = "https://gamma-api.polymarket.com/events"
-        self.target_count = target_count
+        self.event_limit = event_limit
         self.df_events = None
 
     def fetch_events(self):
@@ -18,13 +18,13 @@ class PolymarketEventClient:
         offset = 0
         limit_per_page = 100
         
-        print(f"Fetching up to {self.target_count} Polymarket events...")
+        print(f"Fetching up to {self.event_limit} Polymarket events...")
         
-        while len(all_events) < self.target_count:
+        while len(all_events) < self.event_limit:
             params = {
                 "active": "true",
                 "closed": "false",
-                "limit": min(limit_per_page, self.target_count - len(all_events)),
+                "limit": min(limit_per_page, self.event_limit - len(all_events)),
                 "offset": offset,
                 "order": "id",
                 "ascending": "false"
@@ -70,7 +70,7 @@ class PolymarketEventClient:
         event_map = {
             'id': 'event_id',
             'title': 'event_title',
-            'description': 'description'
+            # 'description': 'description', # too redundant with title, can be added back if needed
         }
         
         df = self.df_events[list(event_map.keys())].copy()
@@ -89,7 +89,7 @@ class PolymarketEventClient:
 # --- Usage ---
 if __name__ == "__main__":
     # Control the fetch size here
-    client = PolymarketEventClient(target_count=500)
+    client = PolymarketEventClient(event_limit=500)
     
     raw_data = client.fetch_events()
     poly_events = client.transform_events()
