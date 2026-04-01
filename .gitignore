@@ -1,8 +1,12 @@
-.pycache
-.venv
+# Folders
+__pycache__/
+.venv/
+.ipynb_checkpoints/
+
+# OS files
 .DS_Store
-__pycache__
-.ipynb_checkpoints
+
+# Secrets and Keys
 .env
-.key
-.pem
+*.key
+*.pem
