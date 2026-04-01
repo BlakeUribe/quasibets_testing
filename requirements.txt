@@ -6,3 +6,4 @@ rapidfuzz
 spacy
 nltk
 matplotlib
+aiohttp
