@@ -13,6 +13,406 @@
             "kalshi":"2026_bitcoin_2026",
             "poly":"2026_bitcoin_2026"
         },
+        "match_id":1755792414
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXALBUMRELEASE-26-OLIV",
+            "poly":"1013249"
+        },
+        "kalshi_text":"olivia rodrigo release a new album in 2026",
+        "poly_text":"olivia rodrigo release an album in 2026",
+        "semantic_score":0.9897,
+        "key_sim_score":0.91,
+        "total_score":0.9498,
+        "match_key":{
+            "kalshi":"2026_new_rodrigo_2026",
+            "poly":"2026_rodrigo_2026"
+        },
+        "match_id":2154541648
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXALBUMRELEASE-26-TAY",
+            "poly":"1686673"
+        },
+        "kalshi_text":"taylor swift release a new album in 2026",
+        "poly_text":"taylor swift release an album in 2026",
+        "semantic_score":0.9892,
+        "key_sim_score":0.91,
+        "total_score":0.9496,
+        "match_key":{
+            "kalshi":"2026_new_taylor_2026",
+            "poly":"2026_taylor_2026"
+        },
+        "match_id":4868959074
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXALBUMRELEASE-26-TRA",
+            "poly":"1686657"
+        },
+        "kalshi_text":"travis scott release a new album in 2026",
+        "poly_text":"travis scott release an album in 2026",
+        "semantic_score":0.9866,
+        "key_sim_score":0.91,
+        "total_score":0.9483,
+        "match_key":{
+            "kalshi":"2026_new_scott_2026",
+            "poly":"2026_scott_2026"
+        },
+        "match_id":469102903
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXALBUMRELEASE-26-SAB",
+            "poly":"1686674"
+        },
+        "kalshi_text":"sabrina carpenter release a new album in 2026",
+        "poly_text":"sabrina carpenter release an album in 2026",
+        "semantic_score":0.9906,
+        "key_sim_score":0.9,
+        "total_score":0.9453,
+        "match_key":{
+            "kalshi":"2026_new_2026",
+            "poly":"2026_2026"
+        },
+        "match_id":220491801
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXALBUMRELEASE-26-RIH",
+            "poly":"1013250"
+        },
+        "kalshi_text":"rihanna release a new album in 2026",
+        "poly_text":"rihanna release an album in 2026",
+        "semantic_score":0.9876,
+        "key_sim_score":0.9,
+        "total_score":0.9438,
+        "match_key":{
+            "kalshi":"2026_new_2026",
+            "poly":"2026_2026"
+        },
+        "match_id":6568484408
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXALBUMRELEASE-26-BIL",
+            "poly":"1686667"
+        },
+        "kalshi_text":"billie eilish release a new album in 2026",
+        "poly_text":"billie eilish release an album in 2026",
+        "semantic_score":0.9924,
+        "key_sim_score":0.89,
+        "total_score":0.9412,
+        "match_key":{
+            "kalshi":"2026_new_2026",
+            "poly":"2026_2026"
+        },
+        "match_id":8532780941
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXALBUMRELEASE-26-PLA",
+            "poly":"1013240"
+        },
+        "kalshi_text":"playboi carti release a new album in 2026",
+        "poly_text":"playboi carti release an album in 2026",
+        "semantic_score":0.9908,
+        "key_sim_score":0.89,
+        "total_score":0.9404,
+        "match_key":{
+            "kalshi":"2026_new_2026",
+            "poly":"2026_2026"
+        },
+        "match_id":6512755951
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXALBUMRELEASE-26-JUS",
+            "poly":"1013242"
+        },
+        "kalshi_text":"justin bieber release a new album in 2026",
+        "poly_text":"justin bieber release an album in 2026",
+        "semantic_score":0.9888,
+        "key_sim_score":0.89,
+        "total_score":0.9394,
+        "match_key":{
+            "kalshi":"2026_justin_new_2026",
+            "poly":"2026_justin_2026"
+        },
+        "match_id":7559838824
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXALBUMRELEASE-26-KEN",
+            "poly":"1013248"
+        },
+        "kalshi_text":"kendrick lamar release a new album in 2026",
+        "poly_text":"kendrick lamar release an album in 2026",
+        "semantic_score":0.9863,
+        "key_sim_score":0.89,
+        "total_score":0.9381,
+        "match_key":{
+            "kalshi":"2026_new_2026",
+            "poly":"2026_2026"
+        },
+        "match_id":4066414912
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXALBUMRELEASE-26-FRA",
+            "poly":"1013244"
+        },
+        "kalshi_text":"frank ocean release a new album in 2026",
+        "poly_text":"frank ocean release an album in 2026",
+        "semantic_score":0.9924,
+        "key_sim_score":0.88,
+        "total_score":0.9362,
+        "match_key":{
+            "kalshi":"2026_frank_new_2026",
+            "poly":"2026_frank_2026"
+        },
+        "match_id":5370314575
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXALBUMRELEASE-26-LAN",
+            "poly":"1013246"
+        },
+        "kalshi_text":"lana del rey release a new album in 2026",
+        "poly_text":"lana del rey release an album in 2026",
+        "semantic_score":0.9922,
+        "key_sim_score":0.88,
+        "total_score":0.9361,
+        "match_key":{
+            "kalshi":"2026_new_2026",
+            "poly":"2026_2026"
+        },
+        "match_id":4449441671
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXALBUMRELEASE-26-LUK",
+            "poly":"1013251"
+        },
+        "kalshi_text":"luke combs release a new album in 2026",
+        "poly_text":"luke combs release an album in 2026",
+        "semantic_score":0.9921,
+        "key_sim_score":0.88,
+        "total_score":0.936,
+        "match_key":{
+            "kalshi":"2026_luke_new_2026",
+            "poly":"2026_luke_2026"
+        },
+        "match_id":4619296716
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXALBUMRELEASE-26-HAR",
+            "poly":"1013243"
+        },
+        "kalshi_text":"harry styles release a new album in 2026",
+        "poly_text":"harry styles release an album in 2026",
+        "semantic_score":0.9911,
+        "key_sim_score":0.88,
+        "total_score":0.9356,
+        "match_key":{
+            "kalshi":"2026_new_2026",
+            "poly":"2026_2026"
+        },
+        "match_id":5800285902
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXSP500ADDQ-26MAR31-ALNY",
+            "poly":"954199"
+        },
+        "kalshi_text":"alnylam pharmaceuticals be added to s p 500 before march 31 2026",
+        "poly_text":"alnylam pharmaceuticals alny be added to the s p 500 by march 31 2026",
+        "semantic_score":0.9787,
+        "key_sim_score":0.89,
+        "total_score":0.9343,
+        "match_key":{
+            "kalshi":"2026_500_march_2026",
+            "poly":"2026_500_march_2026"
+        },
+        "match_id":9790525960
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXALBUMRELEASE-26-BAD",
+            "poly":"1686672"
+        },
+        "kalshi_text":"bad bunny release a new album in 2026",
+        "poly_text":"bad bunny release an album in 2026",
+        "semantic_score":0.9917,
+        "key_sim_score":0.87,
+        "total_score":0.9308,
+        "match_key":{
+            "kalshi":"2026_bunny_new_2026",
+            "poly":"2026_bunny_2026"
+        },
+        "match_id":433211677
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXALBUMRELEASE-26-BEY",
+            "poly":"1686659"
+        },
+        "kalshi_text":"beyonc release a new album in 2026",
+        "poly_text":"beyonc release an album in 2026",
+        "semantic_score":0.9898,
+        "key_sim_score":0.86,
+        "total_score":0.9249,
+        "match_key":{
+            "kalshi":"2026_new_2026",
+            "poly":"2026_2026"
+        },
+        "match_id":4530282513
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXALBUMRELEASE-26-JAY",
+            "poly":"1438611"
+        },
+        "kalshi_text":"jay z release a new album in 2026",
+        "poly_text":"jay z release an album in 2026",
+        "semantic_score":0.9898,
+        "key_sim_score":0.86,
+        "total_score":0.9249,
+        "match_key":{
+            "kalshi":"2026_jay_new_2026",
+            "poly":"2026_jay_2026"
+        },
+        "match_id":3022364487
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXALBUMRELEASE-26-DRA",
+            "poly":"1013245"
+        },
+        "kalshi_text":"drake release a new album in 2026",
+        "poly_text":"drake release an album in 2026",
+        "semantic_score":0.9882,
+        "key_sim_score":0.86,
+        "total_score":0.9241,
+        "match_key":{
+            "kalshi":"2026_new_2026",
+            "poly":"2026_2026"
+        },
+        "match_id":1873773720
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXALBUMRELEASE-26-EMI",
+            "poly":"1057841"
+        },
+        "kalshi_text":"eminem release a new album in 2026",
+        "poly_text":"eminem release an album in 2026",
+        "semantic_score":0.9875,
+        "key_sim_score":0.86,
+        "total_score":0.9237,
+        "match_key":{
+            "kalshi":"2026_new_2026",
+            "poly":"2026_2026"
+        },
+        "match_id":8135444804
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXSP500ADDQ-26MAR31-AFRM",
+            "poly":"954200"
+        },
+        "kalshi_text":"affirm holdings be added to s p 500 before march 31 2026",
+        "poly_text":"affirm holdings afrm be added to the s p 500 by march 31 2026",
+        "semantic_score":0.9758,
+        "key_sim_score":0.87,
+        "total_score":0.9229,
+        "match_key":{
+            "kalshi":"2026_500_march_2026",
+            "poly":"2026_500_march_2026"
+        },
+        "match_id":3366754481
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXSP500ADDQ-26MAR31-CIEN",
+            "poly":"954197"
+        },
+        "kalshi_text":"ciena be added to s p 500 before march 31 2026",
+        "poly_text":"ciena cien be added to the s p 500 by march 31 2026",
+        "semantic_score":0.9501,
+        "key_sim_score":0.87,
+        "total_score":0.91,
+        "match_key":{
+            "kalshi":"2026_500_march_2026",
+            "poly":"2026_500_march_2026"
+        },
+        "match_id":35825309
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXALBUMRELEASE-26-KAN",
+            "poly":"1013247"
+        },
+        "kalshi_text":"kanye west ye release a new album in 2026",
+        "poly_text":"kanye west release an album in 2026",
+        "semantic_score":0.9676,
+        "key_sim_score":0.84,
+        "total_score":0.9038,
+        "match_key":{
+            "kalshi":"2026_new_west_2026",
+            "poly":"2026_west_2026"
+        },
+        "match_id":9892232508
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXFOMEN-26-STR",
+            "poly":"1087533"
+        },
+        "kalshi_text":"january lennard struff win the french open",
+        "poly_text":"january lennard struff win the 2026 men s french open",
+        "semantic_score":0.9259,
+        "key_sim_score":0.88,
+        "total_score":0.9029,
+        "match_key":{
+            "kalshi":"french_january_2026",
+            "poly":"2026_french_january_2026"
+        },
+        "match_id":129607946
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXFOMEN-26-SIN",
+            "poly":"1087513"
+        },
+        "kalshi_text":"jannik sinner win the french open",
+        "poly_text":"jannik sinner win the 2026 men s french open",
+        "semantic_score":0.9404,
+        "key_sim_score":0.86,
+        "total_score":0.9002,
+        "match_key":{
+            "kalshi":"french_2026",
+            "poly":"2026_french_2026"
+        },
+        "match_id":6054644242
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXBTCVSGOLD-26",
+            "poly":"1068346"
+        },
+        "kalshi_text":"bitcoin outperform gold in 2026",
+        "poly_text":"bitcoin outperform gold in 2026",
+        "semantic_score":1.0,
+        "key_sim_score":1.0,
+        "total_score":1.0,
+        "match_key":{
+            "kalshi":"2026_bitcoin_2026",
+            "poly":"2026_bitcoin_2026"
+        },
         "match_id":"1755792414"
     },
     {
@@ -257,22 +657,6 @@
     },
     {
         "market_ids":{
-            "kalshi":"KXALBUMRELEASE-26-BEY",
-            "poly":"1686659"
-        },
-        "kalshi_text":"beyonc release a new album in 2026",
-        "poly_text":"beyonc release an album in 2026",
-        "semantic_score":0.9898,
-        "key_sim_score":0.86,
-        "total_score":0.9249,
-        "match_key":{
-            "kalshi":"2026_new_2026",
-            "poly":"2026_2026"
-        },
-        "match_id":"4530282513"
-    },
-    {
-        "market_ids":{
             "kalshi":"KXALBUMRELEASE-26-JAY",
             "poly":"1438611"
         },
@@ -286,6 +670,22 @@
             "poly":"2026_jay_2026"
         },
         "match_id":"3022364487"
+    },
+    {
+        "market_ids":{
+            "kalshi":"KXALBUMRELEASE-26-BEY",
+            "poly":"1686659"
+        },
+        "kalshi_text":"beyonc release a new album in 2026",
+        "poly_text":"beyonc release an album in 2026",
+        "semantic_score":0.9898,
+        "key_sim_score":0.86,
+        "total_score":0.9249,
+        "match_key":{
+            "kalshi":"2026_new_2026",
+            "poly":"2026_2026"
+        },
+        "match_id":"4530282513"
     },
     {
         "market_ids":{
